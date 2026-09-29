@@ -1,0 +1,18 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // Anyone with the link can read. Only the signed-in owner can write.
+    // Replace the email below with the account you create in Firebase Authentication.
+    function isOwner() {
+      return request.auth != null && request.auth.token.email == "YOUR_EMAIL@gmail.com";
+    }
+    match /applications/{id} {
+      allow read: if true;
+      allow write: if isOwner();
+    }
+    match /meta/{doc} {
+      allow read: if true;
+      allow write: if isOwner();
+    }
+  }
+}
