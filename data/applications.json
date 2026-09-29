@@ -1,7 +1,10 @@
 {
- "updatedAt": "2026-09-28T18:00:00.000Z",
+ "updatedAt": "2026-09-29T21:03:11.101Z",
  "settings": {
-  "monthlyTarget": 100
+  "ownerName": "Fahreen",
+  "monthlyTarget": 100,
+  "followUpAfterDays": 15,
+  "staleAfterDays": 30
  },
  "applications": [
   {
