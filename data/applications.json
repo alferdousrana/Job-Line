@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-30T10:56:39.186Z",
+ "updatedAt": "2026-09-30T17:40:12.010Z",
  "settings": {
   "ownerName": "Fahreen",
   "monthlyTarget": 100,
@@ -102,10 +102,26 @@
     {
      "status": "Applied",
      "date": "2026-09-11"
+    },
+    {
+     "status": "Screening",
+     "date": "2026-09-30"
+    },
+    {
+     "status": "Applied",
+     "date": "2026-09-30"
+    },
+    {
+     "status": "Application Pending",
+     "date": "2026-09-30"
+    },
+    {
+     "status": "Applied",
+     "date": "2026-09-30"
     }
    ],
    "followUps": [],
-   "updatedAt": "2026-09-11"
+   "updatedAt": "2026-09-30"
   },
   {
    "id": "a6a3adcf525",
@@ -483,31 +499,6 @@
    "updatedAt": "2026-09-16"
   },
   {
-   "id": "a592ef23d30",
-   "company": "DTC World Malaysia Sdn Bhd",
-   "title": "Sales Executive",
-   "location": "Kepong",
-   "channel": "HIREDLY",
-   "dateApplied": "2026-09-16",
-   "type": "Full-time",
-   "salary": "RM 4000 - RM 5000",
-   "appliedThrough": "HIREDLY",
-   "contact": "",
-   "url": "https://my.hiredly.com/jobs/jobs-malaysia-dtc-world-malaysia-sdn-bhd-job-sales-executive",
-   "notes": "",
-   "nextAction": "",
-   "status": "Applied",
-   "interviewDate": "",
-   "history": [
-    {
-     "status": "Applied",
-     "date": "2026-09-16"
-    }
-   ],
-   "followUps": [],
-   "updatedAt": "2026-09-16"
-  },
-  {
    "id": "abd2890e5a7",
    "company": "Hiredly X",
    "title": "Business Development Executive (Wellness)",
@@ -746,16 +737,20 @@
    "url": "https://my.hiredly.com/jobs/jobs-malaysia-sailfish-swim-academy-job-manager-assistant-manager-sales-and-marketing",
    "notes": "",
    "nextAction": "",
-   "status": "Applied",
+   "status": "Rejected",
    "interviewDate": "",
    "history": [
     {
      "status": "Applied",
      "date": "2026-09-16"
+    },
+    {
+     "status": "Rejected",
+     "date": "2026-09-30"
     }
    ],
    "followUps": [],
-   "updatedAt": "2026-09-16"
+   "updatedAt": "2026-09-30"
   },
   {
    "id": "ad675dd37c1",
@@ -796,16 +791,20 @@
    "url": "Sales & Business Development Manager at Unseen Matters | Hiredly Malaysia",
    "notes": "",
    "nextAction": "",
-   "status": "Applied",
+   "status": "Rejected",
    "interviewDate": "",
    "history": [
     {
      "status": "Applied",
      "date": "2026-09-16"
+    },
+    {
+     "status": "Rejected",
+     "date": "2026-09-30"
     }
    ],
    "followUps": [],
-   "updatedAt": "2026-09-16"
+   "updatedAt": "2026-09-30"
   },
   {
    "id": "a627f79b8ee",
