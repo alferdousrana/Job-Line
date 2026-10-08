@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-30T17:40:12.010Z",
+ "updatedAt": "2026-10-08T07:43:41.052Z",
  "settings": {
   "ownerName": "Fahreen",
   "monthlyTarget": 100,
@@ -1580,6 +1580,131 @@
    ],
    "followUps": [],
    "updatedAt": "2026-09-30"
+  },
+  {
+   "id": "amurfj19jeomtt",
+   "company": "Save the Children",
+   "title": "Coordinator – Awards Management and Donor Compliance",
+   "location": "Dhaka, Bangladesh",
+   "channel": "Find Compnay Website",
+   "dateApplied": "2026-10-03",
+   "type": "Full-time",
+   "salary": "200000 BDT",
+   "status": "Applied",
+   "appliedThrough": "Website",
+   "contact": "",
+   "url": "https://hcri.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/my-profile",
+   "notes": "",
+   "nextAction": "",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-10-03"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-10-03"
+  },
+  {
+   "id": "amuv9pu54mkc9q",
+   "company": "Médecins Sans Frontières HK / Doctors Without Borders (MSF)",
+   "title": "Project Manager – Heat Stress Duty of Care (TIC Incubator Project)",
+   "location": "Kuala Lumpur, Malaysia",
+   "channel": "LinkedIn",
+   "dateApplied": "2026-10-05",
+   "type": "Full-time",
+   "salary": "",
+   "status": "Applied",
+   "appliedThrough": "LinkedIn",
+   "contact": "",
+   "url": "https://www.linkedin.com/jobs/view/4470062922/",
+   "notes": "",
+   "nextAction": "",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-10-05"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-10-05"
+  },
+  {
+   "id": "amuv9ry76fbzag",
+   "company": "Easmed",
+   "title": "Business Executive",
+   "location": "",
+   "channel": "LinkedIn",
+   "dateApplied": "2026-10-05",
+   "type": "Full-time",
+   "salary": "10000",
+   "status": "Applied",
+   "appliedThrough": "LinkedIn",
+   "contact": "",
+   "url": "https://www.linkedin.com/jobs/view/4467828818/",
+   "notes": "",
+   "nextAction": "",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-10-05"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-10-05"
+  },
+  {
+   "id": "amuyjerq9rfwll",
+   "company": "Clinigen",
+   "title": "Regional Senior Business Development Manager",
+   "location": "Shah Alam, Selangor, Malaysia",
+   "channel": "LinkedIn",
+   "dateApplied": "2026-10-08",
+   "type": "Full-time",
+   "salary": "MYR 15,000 – 18,000",
+   "status": "Applied",
+   "appliedThrough": "LinkedIn",
+   "contact": "",
+   "url": "https://www.linkedin.com/jobs/view/4426588311/",
+   "notes": "",
+   "nextAction": "",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-10-08"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-10-08"
+  },
+  {
+   "id": "amuyjs0eeyhp4d",
+   "company": "Intellect",
+   "title": "Manager / Senior Manager, Strategy & Operations (Multiple Roles)",
+   "location": "Malaysia",
+   "channel": "LinkedIn",
+   "dateApplied": "2026-10-08",
+   "type": "Full-time",
+   "salary": "MYR 12,000–15,000",
+   "status": "Applied",
+   "appliedThrough": "LinkedIn",
+   "contact": "",
+   "url": "https://www.linkedin.com/jobs/view/4460179526/",
+   "notes": "",
+   "nextAction": "",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-10-08"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-10-08"
   }
  ]
 }
