@@ -1,2805 +1,2891 @@
 {
-  "updatedAt": "2026-10-16T18:00:00.000Z",
-  "settings": {
-    "ownerName": "Fahreen",
-    "monthlyTarget": 100,
-    "followUpAfterDays": 15,
-    "staleAfterDays": 30
-  },
-  "applications": [
-    {
-      "id": "a5cf6df9797",
-      "company": "Xspec Hospitech",
-      "title": "Business Development Manager",
-      "location": "Subang Jaya, Selangor, Malaysia",
-      "channel": "LinkedIn",
-      "dateApplied": "2026-09-10",
-      "type": "Full-time",
-      "salary": "8000",
-      "appliedThrough": "LinkedIn",
-      "contact": "",
-      "url": "https://www.linkedin.com/jobs/view/4463802737/",
-      "notes": "",
-      "nextAction": "",
-      "status": "Applied",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-10"
-        },
-        {
-          "status": "Application Pending",
-          "date": "2026-10-08"
-        },
-        {
-          "status": "Applied",
-          "date": "2026-10-08"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-10-08"
-    },
-    {
-      "id": "a42a2972c64",
-      "company": "Michael Page",
-      "title": "Own strategic partnerships",
-      "location": "Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
-      "channel": "LinkedIn",
-      "dateApplied": "2026-09-10",
-      "type": "Full-time",
-      "salary": "8000",
-      "appliedThrough": "Michael Page",
-      "contact": "Contact: Jasmine Wong\nJob ref: JN-092026-7099708\nPhone: +603 2302 4081",
-      "url": "https://www.michaelpage.com.my/job-detail/strategic-partnerships-manager/ref/jn-092026-7099708?utm_source=linkedin&utm_medium=job_wrapping&utm_campaign=jobposting",
-      "notes": "",
-      "nextAction": "",
-      "status": "Applied",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-10"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-09-10"
-    },
-    {
-      "id": "a0f987e1ff1",
-      "company": "Michael Page",
-      "title": "Business Development Manager(Healthcare)",
-      "location": "Petaling Jaya",
-      "channel": "LinkedIn",
-      "dateApplied": "2026-09-10",
-      "type": "Full-time",
-      "salary": "10000",
-      "appliedThrough": "Michael Page",
-      "contact": "Contact: Michelle Lim\nJob ref: JN-082026-7086894\nPhone: +603 2302 4057",
-      "url": "https://www.michaelpage.com.my/job-detail/business-development-managerhealthcare/ref/jn-082026-7086894?utm_source=linkedin&utm_medium=job_wrapping&utm_campaign=jobposting&ng-src=other-users-applied&ng-jn=job-detail",
-      "notes": "",
-      "nextAction": "",
-      "status": "Applied",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-10"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-09-10"
-    },
-    {
-      "id": "a6f77b4bbe8",
-      "company": "MedTech Sales",
-      "title": "Business Manager, Trauma (Malaysia and Brunei)",
-      "location": "Petaling Jaya / Malaysia",
-      "channel": "LinkedIn",
-      "dateApplied": "2026-09-11",
-      "type": "Full-time",
-      "salary": "10000",
-      "appliedThrough": "Website",
-      "contact": "",
-      "url": "https://www.careers.jnj.com/en/jobs/r-098488/business-manager-trauma-malaysia-and-brunei/?source=LinkedIn",
-      "notes": "",
-      "nextAction": "",
-      "status": "Applied",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-11"
-        },
-        {
-          "status": "Screening",
-          "date": "2026-09-30"
-        },
-        {
-          "status": "Applied",
-          "date": "2026-09-30"
-        },
-        {
-          "status": "Application Pending",
-          "date": "2026-09-30"
-        },
-        {
-          "status": "Applied",
-          "date": "2026-09-30"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-09-30"
-    },
-    {
-      "id": "a6a3adcf525",
-      "company": "Sunway Healthcare Group",
-      "title": "Assistant Manager, Corporate Partnerships & Business Development",
-      "location": "Subang Jaya, Selangor, Malaysia",
-      "channel": "LinkedIn",
-      "dateApplied": "2026-09-11",
-      "type": "Full-time",
-      "salary": "10000",
-      "appliedThrough": "LinkedIn",
-      "contact": "",
-      "url": "https://www.linkedin.com/jobs/view/4456260454/",
-      "notes": "",
-      "nextAction": "",
-      "status": "Applied",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-11"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-09-11"
-    },
-    {
-      "id": "aff7e9002c9",
-      "company": "Healthcon Sdn Bhd",
-      "title": "Business Development Manager (East Malaysia and Johor)",
-      "location": "Petaling Jaya, Selangor, Malaysia",
-      "channel": "LinkedIn",
-      "dateApplied": "2026-09-12",
-      "type": "Full-time",
-      "salary": "",
-      "appliedThrough": "LinkedIn",
-      "contact": "",
-      "url": "https://www.linkedin.com/jobs/view/4456229016/",
-      "notes": "",
-      "nextAction": "",
-      "status": "Applied",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-12"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-09-12"
-    },
-    {
-      "id": "a6da3bbc7f9",
-      "company": "Zuellig Pharma",
-      "title": "Business Development Manager (E-Commerce / Digital Healthcare)",
-      "location": "Shah Alam, Selangor, Malaysia",
-      "channel": "LinkedIn",
-      "dateApplied": "2026-09-12",
-      "type": "Full-time",
-      "salary": "",
-      "appliedThrough": "Website",
-      "contact": "",
-      "url": "https://careers.zuelligpharma.com/?locale=en_GB",
-      "notes": "Portal account created (login details removed from public data - keep them in a password manager).\nJob post: https://www.linkedin.com/jobs/view/4463192225/",
-      "nextAction": "",
-      "status": "Applied",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-12"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-09-12"
-    },
-    {
-      "id": "aee5e94754a",
-      "company": "DKSH",
-      "title": "Client Partnership Lead, Patient Solutions",
-      "location": "WP. Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
-      "channel": "LinkedIn",
-      "dateApplied": "2026-09-12",
-      "type": "Full-time",
-      "salary": "",
-      "appliedThrough": "",
-      "contact": "",
-      "url": "https://www.linkedin.com/jobs/view/4430228280/",
-      "notes": "Portal account created (login details removed from public data - keep them in a password manager).",
-      "nextAction": "",
-      "status": "Applied",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-12"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-09-12"
-    },
-    {
-      "id": "ab0022e3a28",
-      "company": "Vanity Cosmeceutical Sdn Bhd",
-      "title": "Business Development Manager",
-      "location": "Petaling Jaya, Selangor, Malaysia",
-      "channel": "LinkedIn",
-      "dateApplied": "2026-09-12",
-      "type": "Full-time",
-      "salary": "",
-      "appliedThrough": "LinkedIn",
-      "contact": "",
-      "url": "https://www.linkedin.com/jobs/view/4462949306/",
-      "notes": "",
-      "nextAction": "",
-      "status": "Applied",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-12"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-09-12"
-    },
-    {
-      "id": "a81465b0749",
-      "company": "GrandTech Cloud Services Inc.",
-      "title": "Business Development Manager – Startup Ecosystem & Partnerships | Malaysia",
-      "location": "Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
-      "channel": "LinkedIn",
-      "dateApplied": "2026-09-12",
-      "type": "Full-time",
-      "salary": "",
-      "appliedThrough": "LinkedIn",
-      "contact": "",
-      "url": "https://www.linkedin.com/jobs/view/4439487756/",
-      "notes": "",
-      "nextAction": "",
-      "status": "Applied",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-12"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-09-12"
-    },
-    {
-      "id": "afac85f0edb",
-      "company": "Cyberjaya College Kota Kinabalu",
-      "title": "Lecturer, Medical and Health Science",
-      "location": "Kota Kinabalu, Sabah",
-      "channel": "JobStreet",
-      "dateApplied": "2026-09-14",
-      "type": "Full-time",
-      "salary": "10000",
-      "appliedThrough": "Jobstreet",
-      "contact": "",
-      "url": "https://my.jobstreet.com/my-activity/applied-jobs/94327126",
-      "notes": "",
-      "nextAction": "",
-      "status": "Applied",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-14"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-09-14"
-    },
-    {
-      "id": "ad814ade361",
-      "company": "MAHSA University",
-      "title": "Lecturer of Environmental Health / Medical Imaging",
-      "location": "Kota Kinabalu, Sabah",
-      "channel": "JobStreet",
-      "dateApplied": "2026-09-14",
-      "type": "Full-time",
-      "salary": "10000",
-      "appliedThrough": "Jobstreet",
-      "contact": "",
-      "url": "https://my.jobstreet.com/my-activity/applied-jobs/94329751",
-      "notes": "",
-      "nextAction": "",
-      "status": "Applied",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-14"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-09-14"
-    },
-    {
-      "id": "a71afeb7317",
-      "company": "Soya Pach Aray Lean",
-      "title": "Lecturer - Occupational Safety and Health (OSH)",
-      "location": "Cyberjaya, Selangor",
-      "channel": "JobStreet",
-      "dateApplied": "2026-09-14",
-      "type": "Full-time",
-      "salary": "10000",
-      "appliedThrough": "Jobstreet",
-      "contact": "",
-      "url": "https://my.jobstreet.com/my-activity/applied-jobs/94344657",
-      "notes": "",
-      "nextAction": "",
-      "status": "Applied",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-14"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-09-14"
-    },
-    {
-      "id": "ae9508f7c2c",
-      "company": "Sunway Medical Centre Penang",
-      "title": "Executive, Business Development",
-      "location": "Seberang Perai, Penang",
-      "channel": "JobStreet",
-      "dateApplied": "2026-09-15",
-      "type": "Full-time",
-      "salary": "10000",
-      "appliedThrough": "Jobstreet",
-      "contact": "",
-      "url": "https://my.jobstreet.com/my-activity/applied-jobs/94601996",
-      "notes": "",
-      "nextAction": "",
-      "status": "Applied",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-15"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-09-15"
-    },
-    {
-      "id": "a8427b768b1",
-      "company": "University of Reading Malaysia (JB)",
-      "title": "Senior Executive, Special Projects & Business Development",
-      "location": "Iskandar Puteri, Johor",
-      "channel": "JobStreet",
-      "dateApplied": "2026-09-15",
-      "type": "Full-time",
-      "salary": "10000",
-      "appliedThrough": "Jobstreet",
-      "contact": "",
-      "url": "https://my.jobstreet.com/my-activity/applied-jobs/94616419",
-      "notes": "",
-      "nextAction": "",
-      "status": "Applied",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-15"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-09-15"
-    },
-    {
-      "id": "af3697a83e2",
-      "company": "TITAN DENTAL SOLUTIONS SDN BHD",
-      "title": "Angel Aligner Relationship Manager",
-      "location": "Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
-      "channel": "LinkedIn",
-      "dateApplied": "2026-09-15",
-      "type": "Full-time",
-      "salary": "",
-      "appliedThrough": "LinkedIn",
-      "contact": "",
-      "url": "https://www.linkedin.com/jobs/view/4460245404/",
-      "notes": "",
-      "nextAction": "",
-      "status": "Applied",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-15"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-09-15"
-    },
-    {
-      "id": "a6d67ed6eba",
-      "company": "UE Global sdn bhd",
-      "title": "Business Development Assistant Manager",
-      "location": "",
-      "channel": "HIREDLY",
-      "dateApplied": "2026-09-16",
-      "type": "Full-time",
-      "salary": "RM 5K - RM 13K",
-      "appliedThrough": "HIREDLY",
-      "contact": "",
-      "url": "https://my.hiredly.com/jobs/jobs-malaysia-ue-global-sdn-bhd-job-business-development-assistant-manager",
-      "notes": "",
-      "nextAction": "",
-      "status": "Applied",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-16"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-09-16"
-    },
-    {
-      "id": "a5555b6df82",
-      "company": "Trinitium",
-      "title": "Sales Account Manager",
-      "location": "Subang Jaya",
-      "channel": "HIREDLY",
-      "dateApplied": "2026-09-16",
-      "type": "Full-time",
-      "salary": "RM 6000 - RM 7000",
-      "appliedThrough": "HIREDLY",
-      "contact": "",
-      "url": "https://my.hiredly.com/jobs/jobs-malaysia-trinitium-job-sales-account-manager",
-      "notes": "",
-      "nextAction": "",
-      "status": "Applied",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-16"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-09-16"
-    },
-    {
-      "id": "aef7ab5f9af",
-      "company": "FOREFRONT International",
-      "title": "Aesthetic Medical Doctor",
-      "location": "Ara Damansara, Petaling Jaya",
-      "channel": "HIREDLY",
-      "dateApplied": "2026-09-16",
-      "type": "Full-time",
-      "salary": "Undisclosed",
-      "appliedThrough": "HIREDLY",
-      "contact": "",
-      "url": "https://my.hiredly.com/jobs/jobs-malaysia-forefront-international-job-aesthetic-medical-doctor",
-      "notes": "",
-      "nextAction": "",
-      "status": "Rejected",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-16"
-        },
-        {
-          "status": "Rejected",
-          "date": "2026-10-10"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-10-10"
-    },
-    {
-      "id": "abd2890e5a7",
-      "company": "Hiredly X",
-      "title": "Business Development Executive (Wellness)",
-      "location": "Petaling Jaya, Selangor",
-      "channel": "HIREDLY",
-      "dateApplied": "2026-09-16",
-      "type": "Full-time",
-      "salary": "RM 4000 - RM 6000",
-      "appliedThrough": "HIREDLY",
-      "contact": "",
-      "url": "https://my.hiredly.com/jobs/jobs-malaysia-hiredly-x-job-business-development-executive-wellness",
-      "notes": "",
-      "nextAction": "",
-      "status": "Applied",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-16"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-09-16"
-    },
-    {
-      "id": "a8dd0f5810f",
-      "company": "Instamedia Premium Solution Sdn Bhd",
-      "title": "Growth & Business Development Executive",
-      "location": "89, jalan hujan emas 8 ,OUG, Kuala Lumpur",
-      "channel": "HIREDLY",
-      "dateApplied": "2026-09-16",
-      "type": "Full-time",
-      "salary": "RM 4000 - RM 6000",
-      "appliedThrough": "HIREDLY",
-      "contact": "",
-      "url": "https://my.hiredly.com/jobs/jobs-malaysia-instamedia-premium-solution-sdn-bhd-job-growth-business-development-executive",
-      "notes": "",
-      "nextAction": "",
-      "status": "Applied",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-16"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-09-16"
-    },
-    {
-      "id": "ac45ed98ee0",
-      "company": "COOKISS MOBILE SDN BHD",
-      "title": "Sales & Business Development Manager",
-      "location": "Petaling Jaya, Selangor",
-      "channel": "HIREDLY",
-      "dateApplied": "2026-09-16",
-      "type": "Full-time",
-      "salary": "RM 3500 - RM 7000",
-      "appliedThrough": "HIREDLY",
-      "contact": "",
-      "url": "https://my.hiredly.com/jobs/jobs-malaysia-cookiss-mobile-sdn-bhd-job-sales-business-development-manager-2",
-      "notes": "",
-      "nextAction": "",
-      "status": "Applied",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-16"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-09-16"
-    },
-    {
-      "id": "a1c43524536",
-      "company": "Biometrixs Meditronixs Global",
-      "title": "MEDICAL SALES REPRESENTATIVE",
-      "location": "SHAH ALAM, SELANGOR",
-      "channel": "HIREDLY",
-      "dateApplied": "2026-09-16",
-      "type": "Full-time",
-      "salary": "RM 2000 - RM 3500",
-      "appliedThrough": "HIREDLY",
-      "contact": "",
-      "url": "https://my.hiredly.com/jobs/jobs-malaysia-biometrixs-meditronixs-global-m-sdn-bhd-job-medical-sales-representative",
-      "notes": "",
-      "nextAction": "",
-      "status": "Applied",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-16"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-09-16"
-    },
-    {
-      "id": "aad00ce7c41",
-      "company": "Hiredly X",
-      "title": "Sales Account Manager",
-      "location": "Bukit Ceylon, Kuala Lumpur",
-      "channel": "HIREDLY",
-      "dateApplied": "2026-09-16",
-      "type": "Full-time",
-      "salary": "RM 6000 - RM 8000",
-      "appliedThrough": "HIREDLY",
-      "contact": "",
-      "url": "https://my.hiredly.com/jobs/jobs-malaysia-hiredly-x-job-sales-account-manager",
-      "notes": "",
-      "nextAction": "",
-      "status": "Applied",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-16"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-09-16"
-    },
-    {
-      "id": "a05627358fc",
-      "company": "Hiredly X",
-      "title": "Assistant Sales Manager",
-      "location": "Klang, Selangor, Selangor",
-      "channel": "HIREDLY",
-      "dateApplied": "2026-09-16",
-      "type": "Full-time",
-      "salary": "RM 5000 - RM 6500",
-      "appliedThrough": "HIREDLY",
-      "contact": "",
-      "url": "https://my.hiredly.com/jobs/jobs-malaysia-hiredly-x-job-assistant-sales-manager-1",
-      "notes": "",
-      "nextAction": "",
-      "status": "Applied",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-16"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-09-16"
-    },
-    {
-      "id": "ac069310b11",
-      "company": "Malaysian Diagnostics Corporation Sdn Bhd",
-      "title": "Product Specialist",
-      "location": "NO 1, JALAN SERINDIT 2, BANDAR PUCHONG JAYA, PUCHONG, Selangor",
-      "channel": "HIREDLY",
-      "dateApplied": "2026-09-16",
-      "type": "Full-time",
-      "salary": "RM 3500 - RM 4500",
-      "appliedThrough": "HIREDLY",
-      "contact": "",
-      "url": "https://my.hiredly.com/jobs/jobs-malaysia-malaysian-diagnostics-corporation-sdn-bhd-job-product-specialist",
-      "notes": "",
-      "nextAction": "",
-      "status": "Rejected",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-16"
-        },
-        {
-          "status": "Rejected",
-          "date": "2026-10-10"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-10-10"
-    },
-    {
-      "id": "a1ccceb262b",
-      "company": "KOLHUB",
-      "title": "Business Development Manager",
-      "location": "D-22-07, Menara Suezcap 1, KL Gateway, 2 Jalan Kerinchi, Kuala Lumpur, Kuala Lumpur",
-      "channel": "HIREDLY",
-      "dateApplied": "2026-09-16",
-      "type": "Full-time",
-      "salary": "RM 6K - RM 20K",
-      "appliedThrough": "HIREDLY",
-      "contact": "",
-      "url": "https://my.hiredly.com/jobs/jobs-malaysia-kolhub-job-business-development-manager",
-      "notes": "",
-      "nextAction": "",
-      "status": "Rejected",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-16"
-        },
-        {
-          "status": "Screening",
-          "date": "2026-10-10"
-        },
-        {
-          "status": "Interview Scheduled",
-          "date": "2026-10-10"
-        },
-        {
-          "status": "Rejected",
-          "date": "2026-10-10"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-10-10"
-    },
-    {
-      "id": "a31e0f33353",
-      "company": "Medicas Sdn Bhd",
-      "title": "Product Specialist (Business Development)-Johor based",
-      "location": "Mont Kiara, Kuala Lumpur",
-      "channel": "HIREDLY",
-      "dateApplied": "2026-09-16",
-      "type": "Full-time",
-      "salary": "RM 3K - RM 40K",
-      "appliedThrough": "HIREDLY",
-      "contact": "",
-      "url": "https://my.hiredly.com/jobs/jobs-malaysia-medicas-sdn-bhd-job-product-specialist-business-development-johor-based",
-      "notes": "",
-      "nextAction": "",
-      "status": "Applied",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-16"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-09-16"
-    },
-    {
-      "id": "a138e80820d",
-      "company": "Sailfish Swim Academy",
-      "title": "Manager/ Assistant Manager - Sales and Marketing",
-      "location": "Bandar Tropicana Aman, Selangor",
-      "channel": "HIREDLY",
-      "dateApplied": "2026-09-16",
-      "type": "Full-time",
-      "salary": "RM 3500 - RM 4000",
-      "appliedThrough": "HIREDLY",
-      "contact": "",
-      "url": "https://my.hiredly.com/jobs/jobs-malaysia-sailfish-swim-academy-job-manager-assistant-manager-sales-and-marketing",
-      "notes": "",
-      "nextAction": "",
-      "status": "Rejected",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-16"
-        },
-        {
-          "status": "Rejected",
-          "date": "2026-09-30"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-09-30"
-    },
-    {
-      "id": "ad675dd37c1",
-      "company": "GIDEONS (MALAYSIA) SDN BHD",
-      "title": "Sales & Marketing (Medical Device)",
-      "location": "KELANA JAYA, Selangor",
-      "channel": "HIREDLY",
-      "dateApplied": "2026-09-16",
-      "type": "Full-time",
-      "salary": "RM 3000 - RM 3600",
-      "appliedThrough": "HIREDLY",
-      "contact": "",
-      "url": "https://my.hiredly.com/jobs/jobs-malaysia-gideons-malaysia-sdn-bhd-job-sales-marketing-medical-device",
-      "notes": "",
-      "nextAction": "",
-      "status": "Applied",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-16"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-09-16"
-    },
-    {
-      "id": "a63e0a4268b",
-      "company": "Unseen Matters",
-      "title": "Sales & Business Development Manager",
-      "location": "Kuchai Lama, Kuala Lumpur",
-      "channel": "HIREDLY",
-      "dateApplied": "2026-09-16",
-      "type": "Full-time",
-      "salary": "RM 5000 - RM 8000",
-      "appliedThrough": "HIREDLY",
-      "contact": "",
-      "url": "Sales & Business Development Manager at Unseen Matters | Hiredly Malaysia",
-      "notes": "",
-      "nextAction": "",
-      "status": "Rejected",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-16"
-        },
-        {
-          "status": "Rejected",
-          "date": "2026-09-30"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-09-30"
-    },
-    {
-      "id": "a627f79b8ee",
-      "company": "AIM MEDTEC SDN BHD",
-      "title": "Sales Representative (Aesthetic Medical Devices) - Klang Valley",
-      "location": "Block 6-5-1C, Jln Jalil Perkasa 14, Arked Esplanade Bukit Jalil, Kuala Lumpur, Kuala Lumpur",
-      "channel": "HIREDLY",
-      "dateApplied": "2026-09-16",
-      "type": "Full-time",
-      "salary": "RM 4000 - RM 6000",
-      "appliedThrough": "HIREDLY",
-      "contact": "",
-      "url": "https://my.hiredly.com/jobs/jobs-malaysia-aim-medtec-sdn-bhd-job-sales-representative-aesthetic-medical-devices-klang-valley",
-      "notes": "",
-      "nextAction": "",
-      "status": "Applied",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-16"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-09-16"
-    },
-    {
-      "id": "a0c8156a568",
-      "company": "Rigel Technology (Malaysia) Sdn Bhd",
-      "title": "Project Sales Executive",
-      "location": "No. 18, Jalan 51A/225A, Zon Perindustrian PJCT, Seksyen 51A, Petaling Jaya, Selangor",
-      "channel": "HIREDLY",
-      "dateApplied": "2026-09-16",
-      "type": "Full-time",
-      "salary": "Undisclosed",
-      "appliedThrough": "HIREDLY",
-      "contact": "",
-      "url": "https://my.hiredly.com/jobs/jobs-malaysia-rigel-technology-malaysia-sdn-bhd-job-project-sales-executive",
-      "notes": "",
-      "nextAction": "",
-      "status": "Applied",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-16"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-09-16"
-    },
-    {
-      "id": "a1ea89de9f1",
-      "company": "Hiredly X",
-      "title": "Medical Sales Manager",
-      "location": "Shah Alam, Selangor, Selangor",
-      "channel": "HIREDLY",
-      "dateApplied": "2026-09-16",
-      "type": "Full-time",
-      "salary": "RM 9K - RM 12K",
-      "appliedThrough": "HIREDLY",
-      "contact": "",
-      "url": "https://my.hiredly.com/jobs/jobs-malaysia-hiredly-x-job-medical-sales-manager",
-      "notes": "",
-      "nextAction": "",
-      "status": "Applied",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-16"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-09-16"
-    },
-    {
-      "id": "ae0a4911543",
-      "company": "Asia OneHealthcare",
-      "title": "Group Head, Strategic Partnerships, Growth Markets & International Marketing",
-      "location": "Ara Damansara Medical Centre (ADMC)",
-      "channel": "Find Compnay Website",
-      "dateApplied": "2026-09-24",
-      "type": "Full-time",
-      "salary": "",
-      "appliedThrough": "Email",
-      "contact": "",
-      "url": "https://asiaonehealth.com/careers/",
-      "notes": "",
-      "nextAction": "",
-      "status": "Applied",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-24"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-09-24"
-    },
-    {
-      "id": "afbba770c5c",
-      "company": "Avisena Healthcare",
-      "title": "Healthcare Business Development",
-      "location": "Shah Alam, Selangor.",
-      "channel": "Find Compnay Website",
-      "dateApplied": "2026-09-24",
-      "type": "Full-time",
-      "salary": "",
-      "appliedThrough": "Email",
-      "contact": "",
-      "url": "https://avisena.com.my/careers/",
-      "notes": "",
-      "nextAction": "",
-      "status": "Applied",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-24"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-09-24"
-    },
-    {
-      "id": "afe102d085a",
-      "company": "Adventist Hospital",
-      "title": "Healthcare Business Development & Strategic Partnerships",
-      "location": "Penang",
-      "channel": "Find Compnay Website",
-      "dateApplied": "2026-09-24",
-      "type": "Full-time",
-      "salary": "",
-      "appliedThrough": "Email",
-      "contact": "",
-      "url": "https://pah.com.my/jobs/",
-      "notes": "",
-      "nextAction": "",
-      "status": "Applied",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-24"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-09-24"
-    },
-    {
-      "id": "ae13c98ffff",
-      "company": "Beacon Hospital",
-      "title": "Business Office Assistant",
-      "location": "Petaling Jaya, Selangor.",
-      "channel": "Find Compnay Website",
-      "dateApplied": "2026-09-24",
-      "type": "Full-time",
-      "salary": "",
-      "appliedThrough": "Website",
-      "contact": "",
-      "url": "https://www.beaconhospital.com.my/careers/?job=Business+Office+Assistant#career-application",
-      "notes": "",
-      "nextAction": "",
-      "status": "Applied",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-24"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-09-24"
-    },
-    {
-      "id": "a8373e3c12a",
-      "company": "International Federation of Red Cross and Red Crescent Societies - IFRC",
-      "title": "Malaysia Country Coordinator",
-      "location": "Kuala Lumpur, Malaysia",
-      "channel": "LinkedIn",
-      "dateApplied": "2026-09-26",
-      "type": "Full-time",
-      "salary": "",
-      "appliedThrough": "Website",
-      "contact": "",
-      "url": "https://www.linkedin.com/jobs/view/4469102719/",
-      "notes": "",
-      "nextAction": "",
-      "status": "Applied",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-26"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-09-26"
-    },
-    {
-      "id": "aff8dc46078",
-      "company": "VDart Malaysia",
-      "title": "Partnerships Specialist",
-      "location": "Petaling Jaya, Selangor, Malaysia",
-      "channel": "LinkedIn",
-      "dateApplied": "2026-09-26",
-      "type": "Full-time",
-      "salary": "",
-      "appliedThrough": "LinkedIn",
-      "contact": "",
-      "url": "https://www.linkedin.com/jobs/view/4470069773/",
-      "notes": "",
-      "nextAction": "",
-      "status": "Applied",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-26"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-09-26"
-    },
-    {
-      "id": "a548a1dfbe0",
-      "company": "Innity",
-      "title": "Senior Strategic Partnership Specialist (Influencer)",
-      "location": "Petaling Jaya, Selangor, Malaysia",
-      "channel": "LinkedIn",
-      "dateApplied": "2026-09-26",
-      "type": "Full-time",
-      "salary": "8000",
-      "appliedThrough": "LinkedIn",
-      "contact": "",
-      "url": "https://www.linkedin.com/jobs/view/4470096357/",
-      "notes": "",
-      "nextAction": "",
-      "status": "Applied",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-26"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-09-26"
-    },
-    {
-      "id": "a3287e0918e",
-      "company": "Zuellig Pharma",
-      "title": "Business Development Manager (E-Commerce / Digital Healthcare)",
-      "location": "Shah Alam, Selangor, Malaysia",
-      "channel": "LinkedIn",
-      "dateApplied": "2026-09-26",
-      "type": "Full-time",
-      "salary": "",
-      "appliedThrough": "Website",
-      "contact": "",
-      "url": "https://careers.zuelligpharma.com/?locale=en_GB",
-      "notes": "Portal account created (login details removed from public data - keep them in a password manager).",
-      "nextAction": "",
-      "status": "Applied",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-26"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-09-26"
-    },
-    {
-      "id": "a50ddbad56e",
-      "company": "Zoll Medical Corporation",
-      "title": "Business Development Manager, Gov/Military (APAC)",
-      "location": "Kuala Lumpur, Malaysia",
-      "channel": "LinkedIn",
-      "dateApplied": "2026-09-26",
-      "type": "Full-time",
-      "salary": "",
-      "appliedThrough": "Website",
-      "contact": "",
-      "url": "https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/Kuala-Lumpur-Malaysia/Business-Development-Manager--Gov-Military--APAC-_R18734",
-      "notes": "",
-      "nextAction": "",
-      "status": "Applied",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-26"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-09-26"
-    },
-    {
-      "id": "ad1f239d951",
-      "company": "WTW",
-      "title": "Associate Manager (Business Development), Health & Benefits, Malaysia",
-      "location": "Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
-      "channel": "LinkedIn",
-      "dateApplied": "2026-09-27",
-      "type": "Full-time",
-      "salary": "",
-      "appliedThrough": "Website",
-      "contact": "",
-      "url": "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/my-profile/preview/202606089",
-      "notes": "Candidate portal: https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/my-profile",
-      "nextAction": "",
-      "status": "Applied",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-27"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-09-27"
-    },
-    {
-      "id": "a1c5391dfa5",
-      "company": "Align Technology - Home",
-      "title": "Clinical Education Manager APAC",
-      "location": "APAC-Malaysia",
-      "channel": "Find Compnay Website",
-      "dateApplied": "2026-09-28",
-      "type": "Full-time",
-      "salary": "",
-      "appliedThrough": "Website",
-      "contact": "",
-      "url": "https://jobs.aligntech.com/postings/5da2f8cd-0a94-46d8-becd-3230d236c282",
-      "notes": "",
-      "nextAction": "",
-      "status": "Applied",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-28"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-09-28"
-    },
-    {
-      "id": "a3be86b5e8c",
-      "company": "Philips",
-      "title": "Personal Health Business Zone Leader: JAPAC",
-      "location": "Kuala Lumpur – Co-labs",
-      "channel": "Find Compnay Website",
-      "dateApplied": "2026-09-28",
-      "type": "Full-time",
-      "salary": "",
-      "appliedThrough": "Website",
-      "contact": "",
-      "url": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Personal-Health-Business-Zone-Leader--JAPAC_590878-1",
-      "notes": "",
-      "nextAction": "",
-      "status": "Applied",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-28"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-09-28"
-    },
-    {
-      "id": "a65e93f4da6",
-      "company": "FosunHealth 复星健康",
-      "title": "International Insurance Direct Billing Partnership",
-      "location": "Federal Territory of Kuala Lumpur, Malaysia",
-      "channel": "LinkedIn",
-      "dateApplied": "2026-09-28",
-      "type": "Full-time",
-      "salary": "",
-      "appliedThrough": "LinkedIn",
-      "contact": "",
-      "url": "https://www.linkedin.com/jobs/view/4470678161/",
-      "notes": "",
-      "nextAction": "",
-      "status": "Applied",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-28"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-09-28"
-    },
-    {
-      "id": "amun688mk17ft8",
-      "company": "VHR Consultancy",
-      "title": "Senior Business Development Executive",
-      "location": "Kajang, Selangor, Malaysia",
-      "channel": "LinkedIn",
-      "dateApplied": "2026-09-30",
-      "type": "Full-time",
-      "salary": "",
-      "status": "Applied",
-      "appliedThrough": "LinkedIn",
-      "contact": "",
-      "url": "https://www.linkedin.com/jobs/view/4471266754/",
-      "notes": "",
-      "nextAction": "",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-30"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-09-30"
-    },
-    {
-      "id": "amuntnpruw4o57",
-      "company": "Enterprise Asia",
-      "title": "Partnership Manager (Business Development & Regional Sales)",
-      "location": "Petaling Jaya, Selangor, Malaysia",
-      "channel": "LinkedIn",
-      "dateApplied": "2026-09-30",
-      "type": "Full-time",
-      "salary": "8000",
-      "status": "Applied",
-      "appliedThrough": "LinkedIn",
-      "contact": "",
-      "url": "https://www.linkedin.com/jobs/view/4459502172/",
-      "notes": "",
-      "nextAction": "",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-30"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-09-30"
-    },
-    {
-      "id": "amunts2rml3x77",
-      "company": "NPAworldwide",
-      "title": "Business Development Lead- Malaysia",
-      "location": "Kuala Lumpur, Malaysia",
-      "channel": "Find Compnay Website",
-      "dateApplied": "2026-09-30",
-      "type": "Full-time",
-      "salary": "8000",
-      "status": "Applied",
-      "appliedThrough": "Website",
-      "contact": "",
-      "url": "https://jobs.npaworldwide.com/job-confirmation",
-      "notes": "",
-      "nextAction": "",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-30"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-09-30"
-    },
-    {
-      "id": "amunu4xduyqnvz",
-      "company": "Dream Ct Solution",
-      "title": "Health & Wellness Business Development Executive",
-      "location": "Bandar Puchong Jaya",
-      "channel": "HIREDLY",
-      "dateApplied": "2026-09-30",
-      "type": "Full-time",
-      "salary": "RM 3K - RM 15K",
-      "status": "Applied",
-      "appliedThrough": "HIREDLY",
-      "contact": "",
-      "url": "https://my.hiredly.com/jobs/jobs-malaysia-ue-global-sdn-bhd-job-business-development-assistant-manager",
-      "notes": "",
-      "nextAction": "",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-30"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-09-30"
-    },
-    {
-      "id": "amunx2f46qca0t",
-      "company": "Rigel Technology (Malaysia) Sdn Bhd",
-      "title": "BUSINESS DEVELOPMENT EXECUTIVE (WELLNESS)",
-      "location": "Petaling Jaya, Selangor",
-      "channel": "HIREDLY",
-      "dateApplied": "2026-09-30",
-      "type": "Full-time",
-      "salary": "Undisclosed",
-      "status": "Rejected",
-      "appliedThrough": "HIREDLY",
-      "contact": "",
-      "url": "https://my.hiredly.com/profile#job-application-history",
-      "notes": "",
-      "nextAction": "",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-30"
-        },
-        {
-          "status": "Rejected",
-          "date": "2026-10-10"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-10-10"
-    },
-    {
-      "id": "amunz6jmvzavpp",
-      "company": "Ambition",
-      "title": "Service Coordinator/Customer Service Coordinator",
-      "location": "Selangor, Malaysia",
-      "channel": "LinkedIn",
-      "dateApplied": "2026-09-30",
-      "type": "Full-time",
-      "salary": "",
-      "status": "Applied",
-      "appliedThrough": "LinkedIn",
-      "contact": "",
-      "url": "https://www.linkedin.com/jobs/view/4468527921/",
-      "notes": "",
-      "nextAction": "",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-30"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-09-30"
-    },
-    {
-      "id": "amunz80s7zq73u",
-      "company": "MSD",
-      "title": "Associate Director",
-      "location": "Petaling Jaya, Selangor, Malaysia",
-      "channel": "LinkedIn",
-      "dateApplied": "2026-09-30",
-      "type": "Full-time",
-      "salary": "",
-      "status": "Applied",
-      "appliedThrough": "LinkedIn",
-      "contact": "",
-      "url": "https://www.linkedin.com/jobs/view/4461129110/",
-      "notes": "",
-      "nextAction": "",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-30"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-09-30"
-    },
-    {
-      "id": "amunzawyst6im2",
-      "company": "Teladoc Health Asia",
-      "title": "Asia Care Coordinator",
-      "location": "Federal Territory of Kuala Lumpur, Malaysia",
-      "channel": "LinkedIn",
-      "dateApplied": "2026-09-30",
-      "type": "Full-time",
-      "salary": "",
-      "status": "Applied",
-      "appliedThrough": "LinkedIn",
-      "contact": "",
-      "url": "https://www.linkedin.com/jobs/view/4460923759/",
-      "notes": "",
-      "nextAction": "",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-30"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-09-30"
-    },
-    {
-      "id": "amunzd8cjs88mq",
-      "company": "HYRED",
-      "title": "Project Manager",
-      "location": "Federal Territory of Kuala Lumpur, Malaysia",
-      "channel": "LinkedIn",
-      "dateApplied": "2026-09-30",
-      "type": "Full-time",
-      "salary": "",
-      "status": "Applied",
-      "appliedThrough": "LinkedIn",
-      "contact": "",
-      "url": "https://www.linkedin.com/jobs/view/4465807575/",
-      "notes": "",
-      "nextAction": "",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-30"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-09-30"
-    },
-    {
-      "id": "amunze5exnlvj3",
-      "company": "ThoughtFull",
-      "title": "Clinical Quality and Provider Engagement Manager",
-      "location": "Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
-      "channel": "LinkedIn",
-      "dateApplied": "2026-09-30",
-      "type": "Full-time",
-      "salary": "",
-      "status": "Applied",
-      "appliedThrough": "LinkedIn",
-      "contact": "",
-      "url": "https://www.linkedin.com/jobs/view/4462801099/",
-      "notes": "",
-      "nextAction": "",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-30"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-09-30"
-    },
-    {
-      "id": "amunzf5e0orpn4",
-      "company": "MIMS Medica (Malaysia) Sdn Bhd",
-      "title": "Regional Operations Manager",
-      "location": "Petaling Jaya, Selangor, Malaysia",
-      "channel": "LinkedIn",
-      "dateApplied": "2026-09-30",
-      "type": "Full-time",
-      "salary": "",
-      "status": "Applied",
-      "appliedThrough": "LinkedIn",
-      "contact": "",
-      "url": "https://www.linkedin.com/jobs/view/4468700636/",
-      "notes": "",
-      "nextAction": "",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-30"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-09-30"
-    },
-    {
-      "id": "amunzgey43i8sv",
-      "company": "Sunway Medical Centre Velocity",
-      "title": "Executive, Staff Health",
-      "location": "Kuala Lumpur, Malaysia",
-      "channel": "LinkedIn",
-      "dateApplied": "2026-09-30",
-      "type": "Full-time",
-      "salary": "",
-      "status": "Applied",
-      "appliedThrough": "LinkedIn",
-      "contact": "",
-      "url": "https://www.linkedin.com/jobs/view/4460991042/",
-      "notes": "",
-      "nextAction": "",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-30"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-09-30"
-    },
-    {
-      "id": "amunzil942nh51",
-      "company": "MAHSA Specialist Hospital",
-      "title": "Medical affair senior executive",
-      "location": "Jenjarom, Selangor, Malaysia",
-      "channel": "LinkedIn",
-      "dateApplied": "2026-09-30",
-      "type": "Full-time",
-      "salary": "",
-      "status": "Applied",
-      "appliedThrough": "LinkedIn",
-      "contact": "",
-      "url": "https://www.linkedin.com/jobs/view/4472130066/",
-      "notes": "",
-      "nextAction": "",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-30"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-09-30"
-    },
-    {
-      "id": "amunzk45qglm9n",
-      "company": "Santen",
-      "title": "Clinical Applications Manager",
-      "location": "Kuala Lumpur, Malaysia",
-      "channel": "LinkedIn",
-      "dateApplied": "2026-09-30",
-      "type": "Full-time",
-      "salary": "",
-      "status": "Applied",
-      "appliedThrough": "LinkedIn",
-      "contact": "",
-      "url": "https://www.linkedin.com/jobs/view/4458954212/",
-      "notes": "",
-      "nextAction": "",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-30"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-09-30"
-    },
-    {
-      "id": "amunzm1qjwnc2t",
-      "company": "Ipsos in Malaysia",
-      "title": "Senior Compliance Manager - Healthcare",
-      "location": "Kuala Lumpur, Malaysia",
-      "channel": "LinkedIn",
-      "dateApplied": "2026-09-30",
-      "type": "Full-time",
-      "salary": "8000",
-      "status": "Applied",
-      "appliedThrough": "LinkedIn",
-      "contact": "",
-      "url": "https://www.linkedin.com/jobs/view/4470293877/",
-      "notes": "",
-      "nextAction": "",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-30"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-09-30"
-    },
-    {
-      "id": "amurfj19jeomtt",
-      "company": "Save the Children",
-      "title": "Coordinator – Awards Management and Donor Compliance",
-      "location": "Dhaka, Bangladesh",
-      "channel": "Find Compnay Website",
-      "dateApplied": "2026-10-03",
-      "type": "Full-time",
-      "salary": "200000 BDT",
-      "status": "Applied",
-      "appliedThrough": "Website",
-      "contact": "",
-      "url": "https://hcri.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/my-profile",
-      "notes": "",
-      "nextAction": "",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-10-03"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-10-03"
-    },
-    {
-      "id": "amuv9pu54mkc9q",
-      "company": "Médecins Sans Frontières HK / Doctors Without Borders (MSF)",
-      "title": "Project Manager – Heat Stress Duty of Care (TIC Incubator Project)",
-      "location": "Kuala Lumpur, Malaysia",
-      "channel": "LinkedIn",
-      "dateApplied": "2026-10-05",
-      "type": "Full-time",
-      "salary": "",
-      "status": "Applied",
-      "appliedThrough": "LinkedIn",
-      "contact": "",
-      "url": "https://www.linkedin.com/jobs/view/4470062922/",
-      "notes": "",
-      "nextAction": "",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-10-05"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-10-05"
-    },
-    {
-      "id": "amuv9ry76fbzag",
-      "company": "Easmed",
-      "title": "Business Executive",
-      "location": "",
-      "channel": "LinkedIn",
-      "dateApplied": "2026-10-05",
-      "type": "Full-time",
-      "salary": "10000",
-      "status": "Applied",
-      "appliedThrough": "LinkedIn",
-      "contact": "",
-      "url": "https://www.linkedin.com/jobs/view/4467828818/",
-      "notes": "",
-      "nextAction": "",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-10-05"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-10-05"
-    },
-    {
-      "id": "amuyjerq9rfwll",
-      "company": "Clinigen",
-      "title": "Regional Senior Business Development Manager",
-      "location": "Shah Alam, Selangor, Malaysia",
-      "channel": "LinkedIn",
-      "dateApplied": "2026-10-08",
-      "type": "Full-time",
-      "salary": "MYR 15,000 – 18,000",
-      "status": "Applied",
-      "appliedThrough": "LinkedIn",
-      "contact": "",
-      "url": "https://www.linkedin.com/jobs/view/4426588311/",
-      "notes": "",
-      "nextAction": "",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-10-08"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-10-08"
-    },
-    {
-      "id": "amuyjs0eeyhp4d",
-      "company": "Intellect",
-      "title": "Manager / Senior Manager, Strategy & Operations (Multiple Roles)",
-      "location": "Malaysia",
-      "channel": "LinkedIn",
-      "dateApplied": "2026-10-08",
-      "type": "Full-time",
-      "salary": "MYR 12,000–15,000",
-      "status": "Applied",
-      "appliedThrough": "LinkedIn",
-      "contact": "",
-      "url": "https://www.linkedin.com/jobs/view/4460179526/",
-      "notes": "",
-      "nextAction": "",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-10-08"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-10-08"
-    },
-    {
-      "id": "amuzrmo550h3gk",
-      "company": "SHINING 3D",
-      "title": "Account Manager - Dental - Malaysia",
-      "location": "Greater Kuala Lumpur",
-      "channel": "LinkedIn",
-      "dateApplied": "2026-10-08",
-      "type": "Full-time",
-      "salary": "",
-      "status": "Applied",
-      "appliedThrough": "LinkedIn",
-      "contact": "",
-      "url": "https://www.linkedin.com/jobs/view/4419035113/",
-      "notes": "",
-      "nextAction": "",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-10-08"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-10-08"
-    },
-    {
-      "id": "amuzrpa1vw7yjs",
-      "company": "AIA Malaysia",
-      "title": "Intermediary Relationship Management, Consultant",
-      "location": "Kuala Lumpur, Malaysia",
-      "channel": "LinkedIn",
-      "dateApplied": "2026-10-08",
-      "type": "Full-time",
-      "salary": "",
-      "status": "Applied",
-      "appliedThrough": "LinkedIn",
-      "contact": "",
-      "url": "https://www.linkedin.com/jobs/view/4469427377/",
-      "notes": "",
-      "nextAction": "",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-10-08"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-10-08"
-    },
-    {
-      "id": "amuzx8r9a5ccuw",
-      "company": "Plan International",
-      "title": "Monitoring, Evaluation, Research and Learning (MERL) Coordinator",
-      "location": "Nepal",
-      "channel": "LinkedIn",
-      "dateApplied": "2026-10-09",
-      "type": "Full-time",
-      "salary": "",
-      "status": "Applied",
-      "appliedThrough": "Website",
-      "contact": "",
-      "url": "https://career5.successfactors.eu/portalcareer?_s.crb=q5FSt5HzXZHaFp3zQSatDoa6USo41DIYLBgTZj91RB4%253d",
-      "notes": "",
-      "nextAction": "",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-10-09"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-10-09"
-    },
-    {
-      "id": "amv1f93x2fnpqq",
-      "company": "Philips",
-      "title": "Sales Specialist Acute Care Informatics",
-      "location": "Malaysia",
-      "channel": "LinkedIn",
-      "dateApplied": "2026-10-10",
-      "type": "Full-time",
-      "salary": "",
-      "status": "Rejected",
-      "appliedThrough": "Website",
-      "contact": "",
-      "url": "",
-      "notes": "",
-      "nextAction": "",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-10-10"
-        },
-        {
-          "status": "Rejected",
-          "date": "2026-10-12"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-10-12"
-    },
-    {
-      "id": "amv1fbnxgmzioj",
-      "company": "先路咨询XianluConsulting",
-      "title": "Regional Client Partner – Medical Disposables",
-      "location": "Kuala Lumpur, Malaysia",
-      "channel": "LinkedIn",
-      "dateApplied": "2026-10-10",
-      "type": "Full-time",
-      "salary": "",
-      "status": "Applied",
-      "appliedThrough": "LinkedIn",
-      "contact": "",
-      "url": "",
-      "notes": "",
-      "nextAction": "",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-10-10"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-10-10"
-    },
-    {
-      "id": "amv1fclwlz4mn1",
-      "company": "Digmarit Ltd",
-      "title": "Business Development Manager",
-      "location": "Malaysia",
-      "channel": "LinkedIn",
-      "dateApplied": "2026-10-10",
-      "type": "Full-time",
-      "salary": "",
-      "status": "Applied",
-      "appliedThrough": "LinkedIn",
-      "contact": "",
-      "url": "https://www.linkedin.com/jobs/view/4477815919/",
-      "notes": "",
-      "nextAction": "",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-10-10"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-10-10"
-    },
-    {
-      "id": "amv1fdpdkod9l6",
-      "company": "Gate",
-      "title": "Global Partnerships Manager",
-      "location": "Malaysia",
-      "channel": "LinkedIn",
-      "dateApplied": "2026-10-10",
-      "type": "Full-time",
-      "salary": "",
-      "status": "Applied",
-      "appliedThrough": "LinkedIn",
-      "contact": "",
-      "url": "https://www.linkedin.com/jobs/view/4461059421/",
-      "notes": "",
-      "nextAction": "",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-10-10"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-10-10"
-    },
-    {
-      "id": "amv1ffki7rmt42",
-      "company": "Confidential",
-      "title": "Global Partnerships Manager",
-      "location": "Kuala Lumpur, Malaysia",
-      "channel": "LinkedIn",
-      "dateApplied": "2026-10-10",
-      "type": "Full-time",
-      "salary": "",
-      "status": "Applied",
-      "appliedThrough": "LinkedIn",
-      "contact": "",
-      "url": "https://www.linkedin.com/jobs/view/4461058446/",
-      "notes": "",
-      "nextAction": "",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-10-10"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-10-10"
-    },
-    {
-      "id": "amv1fhqb1bbrf4",
-      "company": "ACTalent Fresh Career",
-      "title": "Business Development",
-      "location": "Greater Kuala Lumpur",
-      "channel": "LinkedIn",
-      "dateApplied": "2026-10-10",
-      "type": "Full-time",
-      "salary": "",
-      "status": "Applied",
-      "appliedThrough": "LinkedIn",
-      "contact": "",
-      "url": "https://www.linkedin.com/jobs/view/4476299437/",
-      "notes": "",
-      "nextAction": "",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-10-10"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-10-10"
-    },
-    {
-      "id": "amv1fisjk8825f",
-      "company": "Hartalega",
-      "title": "International Sales Executive",
-      "location": "Kuala Lumpur, Malaysia",
-      "channel": "LinkedIn",
-      "dateApplied": "2026-10-10",
-      "type": "Full-time",
-      "salary": "10000",
-      "status": "Applied",
-      "appliedThrough": "LinkedIn",
-      "contact": "",
-      "url": "https://www.linkedin.com/jobs/view/4476244401/",
-      "notes": "",
-      "nextAction": "",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-10-10"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-10-10"
-    },
-    {
-      "id": "amv2lkkygmsuxk",
-      "company": "Hiredly X",
-      "title": "Medical Sales Manager (Aesthetic)",
-      "location": "Shah Alam, Selangor",
-      "channel": "HIREDLY",
-      "dateApplied": "2026-10-10",
-      "type": "Full-time",
-      "salary": "RM 8K - RM 12K",
-      "status": "Applied",
-      "appliedThrough": "HIREDLY",
-      "contact": "",
-      "url": "https://my.hiredly.com/jobs/jobs-malaysia-hiredly-x-job-medical-sales-manager-aesthetic?utm_source=mandrill&utm_medium=email&utm_content=job&utm_campaign=job_alert",
-      "notes": "",
-      "nextAction": "",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-10-10"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-10-10"
-    },
-    {
-      "id": "amv2m1nemasfgn",
-      "company": "Skribble Me Malaysia Sdn Bhd",
-      "title": "Senior Business Development",
-      "location": "Damansara Perdana, Selangor",
-      "channel": "HIREDLY",
-      "dateApplied": "2026-10-10",
-      "type": "Full-time",
-      "salary": "RM 3K - RM 15K",
-      "status": "Applied",
-      "appliedThrough": "HIREDLY",
-      "contact": "",
-      "url": "https://my.hiredly.com/jobs/jobs-malaysia-skribble-me-malaysia-sdn-bhd-job-senior-business-development?origin=job_list",
-      "notes": "",
-      "nextAction": "",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-10-10"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-10-10"
-    },
-    {
-      "id": "amv2m40uf60iyq",
-      "company": "GBCI",
-      "title": "Senior Business Development Executive",
-      "location": "Kuala Lumpur",
-      "channel": "HIREDLY",
-      "dateApplied": "2026-10-10",
-      "type": "Full-time",
-      "salary": "RM 8K - RM 10K",
-      "status": "Applied",
-      "appliedThrough": "HIREDLY",
-      "contact": "",
-      "url": "https://my.hiredly.com/jobs/jobs-malaysia-gbci-job-senior-business-development-executive-0?origin=similar_jobs",
-      "notes": "",
-      "nextAction": "",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-10-10"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-10-10"
-    },
-    {
-      "id": "amv2m58k28oamv",
-      "company": "MM Century",
-      "title": "Senior Enterprise Business Development Executive",
-      "location": "Selangor",
-      "channel": "HIREDLY",
-      "dateApplied": "2026-10-10",
-      "type": "Full-time",
-      "salary": "RM 6000 - RM 8000",
-      "status": "Applied",
-      "appliedThrough": "HIREDLY",
-      "contact": "",
-      "url": "https://my.hiredly.com/jobs/jobs-malaysia-mm-century-job-senior-enterprise-business-development-executive?origin=similar_jobs",
-      "notes": "",
-      "nextAction": "",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-10-10"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-10-10"
-    },
-    {
-      "id": "amv2m8v4tfz259",
-      "company": "Hiredly X",
-      "title": "Aesthetic Clinic Sales Manager",
-      "location": "Puchong, Selangor",
-      "channel": "LinkedIn",
-      "dateApplied": "2026-10-10",
-      "type": "Full-time",
-      "salary": "",
-      "status": "Applied",
-      "appliedThrough": "LinkedIn",
-      "contact": "",
-      "url": "",
-      "notes": "",
-      "nextAction": "",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-10-10"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-10-10"
-    },
-    {
-      "id": "amv9psukrkzjmp",
-      "company": "PeopleLAKE Group",
-      "title": "Business Development Manager",
-      "location": "Kuala Lumpur, Malaysia",
-      "channel": "LinkedIn",
-      "dateApplied": "2026-10-12",
-      "type": "Full-time",
-      "salary": "",
-      "status": "Applied",
-      "appliedThrough": "LinkedIn",
-      "contact": "",
-      "url": "https://www.linkedin.com/jobs/view/4478872242/",
-      "notes": "",
-      "nextAction": "",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-10-12"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-10-15"
-    },
-    {
-      "id": "amv9pu8gbh0hb8",
-      "company": "Robert Walters",
-      "title": "Regional Channel Partnerships Manager (Southeast Asia)",
-      "location": "Kuala Lumpur, Malaysia",
-      "channel": "LinkedIn",
-      "dateApplied": "2026-10-12",
-      "type": "Full-time",
-      "salary": "",
-      "status": "Rejected",
-      "appliedThrough": "LinkedIn",
-      "contact": "",
-      "url": "https://www.linkedin.com/jobs/view/4479239862/",
-      "notes": "",
-      "nextAction": "",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-10-12"
-        },
-        {
-          "status": "Rejected",
-          "date": "2026-10-16"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-10-16"
-    },
-    {
-      "id": "amv9q09fschnv6",
-      "company": "PopoMama",
-      "title": "Sales & Business Development Executive",
-      "location": "Selangor, Malaysia",
-      "channel": "LinkedIn",
-      "dateApplied": "2026-10-13",
-      "type": "Full-time",
-      "salary": "",
-      "status": "Applied",
-      "appliedThrough": "LinkedIn",
-      "contact": "",
-      "url": "https://www.linkedin.com/jobs/view/4475959056/",
-      "notes": "",
-      "nextAction": "",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-10-13"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-10-15"
-    },
-    {
-      "id": "amv9q2f4vqhyqt",
-      "company": "People Systems Consultancy",
-      "title": "Sales Business Development Manager",
-      "location": "Selangor, Malaysia",
-      "channel": "LinkedIn",
-      "dateApplied": "2026-10-13",
-      "type": "Full-time",
-      "salary": "",
-      "status": "Applied",
-      "appliedThrough": "LinkedIn",
-      "contact": "",
-      "url": "https://www.linkedin.com/jobs/view/4460458466/",
-      "notes": "",
-      "nextAction": "",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-10-13"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-10-15"
-    },
-    {
-      "id": "af8937cec39",
-      "company": "LinkedIn application – details not recorded #1",
-      "title": "Not recorded",
-      "location": "",
-      "channel": "LinkedIn",
-      "dateApplied": "2026-09-10",
-      "type": "Full-time",
-      "salary": "",
-      "appliedThrough": "LinkedIn",
-      "contact": "",
-      "url": "",
-      "notes": "Company and role details were not recorded at the time of applying. Applied date approximate; rejection date not recorded.",
-      "nextAction": "",
-      "status": "Rejected",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-10"
-        },
-        {
-          "status": "Rejected",
-          "date": "2026-10-16"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-10-16"
-    },
-    {
-      "id": "a1dc8a88bc5",
-      "company": "LinkedIn application – details not recorded #2",
-      "title": "Not recorded",
-      "location": "",
-      "channel": "LinkedIn",
-      "dateApplied": "2026-09-11",
-      "type": "Full-time",
-      "salary": "",
-      "appliedThrough": "LinkedIn",
-      "contact": "",
-      "url": "",
-      "notes": "Company and role details were not recorded at the time of applying. Applied date approximate; rejection date not recorded.",
-      "nextAction": "",
-      "status": "Rejected",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-11"
-        },
-        {
-          "status": "Rejected",
-          "date": "2026-10-16"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-10-16"
-    },
-    {
-      "id": "aa1fc2f610f",
-      "company": "LinkedIn application – details not recorded #3",
-      "title": "Not recorded",
-      "location": "",
-      "channel": "LinkedIn",
-      "dateApplied": "2026-09-12",
-      "type": "Full-time",
-      "salary": "",
-      "appliedThrough": "LinkedIn",
-      "contact": "",
-      "url": "",
-      "notes": "Company and role details were not recorded at the time of applying. Applied date approximate; rejection date not recorded.",
-      "nextAction": "",
-      "status": "Rejected",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-12"
-        },
-        {
-          "status": "Rejected",
-          "date": "2026-10-16"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-10-16"
-    },
-    {
-      "id": "a0b06773509",
-      "company": "LinkedIn application – details not recorded #4",
-      "title": "Not recorded",
-      "location": "",
-      "channel": "LinkedIn",
-      "dateApplied": "2026-09-13",
-      "type": "Full-time",
-      "salary": "",
-      "appliedThrough": "LinkedIn",
-      "contact": "",
-      "url": "",
-      "notes": "Company and role details were not recorded at the time of applying. Applied date approximate; rejection date not recorded.",
-      "nextAction": "",
-      "status": "Rejected",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-13"
-        },
-        {
-          "status": "Rejected",
-          "date": "2026-10-16"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-10-16"
-    },
-    {
-      "id": "a7cb9071fba",
-      "company": "LinkedIn application – details not recorded #5",
-      "title": "Not recorded",
-      "location": "",
-      "channel": "LinkedIn",
-      "dateApplied": "2026-09-14",
-      "type": "Full-time",
-      "salary": "",
-      "appliedThrough": "LinkedIn",
-      "contact": "",
-      "url": "",
-      "notes": "Company and role details were not recorded at the time of applying. Applied date approximate; rejection date not recorded.",
-      "nextAction": "",
-      "status": "Rejected",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-14"
-        },
-        {
-          "status": "Rejected",
-          "date": "2026-10-16"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-10-16"
-    },
-    {
-      "id": "a9a0ca23356",
-      "company": "LinkedIn application – details not recorded #6",
-      "title": "Not recorded",
-      "location": "",
-      "channel": "LinkedIn",
-      "dateApplied": "2026-09-15",
-      "type": "Full-time",
-      "salary": "",
-      "appliedThrough": "LinkedIn",
-      "contact": "",
-      "url": "",
-      "notes": "Company and role details were not recorded at the time of applying. Applied date approximate; rejection date not recorded.",
-      "nextAction": "",
-      "status": "Rejected",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-15"
-        },
-        {
-          "status": "Rejected",
-          "date": "2026-10-16"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-10-16"
-    },
-    {
-      "id": "acc374b8d44",
-      "company": "LinkedIn application – details not recorded #7",
-      "title": "Not recorded",
-      "location": "",
-      "channel": "LinkedIn",
-      "dateApplied": "2026-09-16",
-      "type": "Full-time",
-      "salary": "",
-      "appliedThrough": "LinkedIn",
-      "contact": "",
-      "url": "",
-      "notes": "Company and role details were not recorded at the time of applying. Applied date approximate; rejection date not recorded.",
-      "nextAction": "",
-      "status": "Rejected",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-16"
-        },
-        {
-          "status": "Rejected",
-          "date": "2026-10-16"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-10-16"
-    },
-    {
-      "id": "a0c070d9bd1",
-      "company": "LinkedIn application – details not recorded #8",
-      "title": "Not recorded",
-      "location": "",
-      "channel": "LinkedIn",
-      "dateApplied": "2026-09-17",
-      "type": "Full-time",
-      "salary": "",
-      "appliedThrough": "LinkedIn",
-      "contact": "",
-      "url": "",
-      "notes": "Company and role details were not recorded at the time of applying. Applied date approximate; rejection date not recorded.",
-      "nextAction": "",
-      "status": "Rejected",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-17"
-        },
-        {
-          "status": "Rejected",
-          "date": "2026-10-16"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-10-16"
-    },
-    {
-      "id": "ab95a7b499e",
-      "company": "LinkedIn application – details not recorded #9",
-      "title": "Not recorded",
-      "location": "",
-      "channel": "LinkedIn",
-      "dateApplied": "2026-09-18",
-      "type": "Full-time",
-      "salary": "",
-      "appliedThrough": "LinkedIn",
-      "contact": "",
-      "url": "",
-      "notes": "Company and role details were not recorded at the time of applying. Applied date approximate; rejection date not recorded.",
-      "nextAction": "",
-      "status": "Rejected",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-18"
-        },
-        {
-          "status": "Rejected",
-          "date": "2026-10-16"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-10-16"
-    },
-    {
-      "id": "a6bdb7f8e9f",
-      "company": "LinkedIn application – details not recorded #10",
-      "title": "Not recorded",
-      "location": "",
-      "channel": "LinkedIn",
-      "dateApplied": "2026-09-19",
-      "type": "Full-time",
-      "salary": "",
-      "appliedThrough": "LinkedIn",
-      "contact": "",
-      "url": "",
-      "notes": "Company and role details were not recorded at the time of applying. Applied date approximate; rejection date not recorded.",
-      "nextAction": "",
-      "status": "Rejected",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-19"
-        },
-        {
-          "status": "Rejected",
-          "date": "2026-10-16"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-10-16"
-    },
-    {
-      "id": "a50427b9f2c",
-      "company": "LinkedIn application – details not recorded #11",
-      "title": "Not recorded",
-      "location": "",
-      "channel": "LinkedIn",
-      "dateApplied": "2026-09-20",
-      "type": "Full-time",
-      "salary": "",
-      "appliedThrough": "LinkedIn",
-      "contact": "",
-      "url": "",
-      "notes": "Company and role details were not recorded at the time of applying. Applied date approximate; rejection date not recorded.",
-      "nextAction": "",
-      "status": "Rejected",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-20"
-        },
-        {
-          "status": "Rejected",
-          "date": "2026-10-16"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-10-16"
-    },
-    {
-      "id": "aa6b4567a79",
-      "company": "LinkedIn application – details not recorded #12",
-      "title": "Not recorded",
-      "location": "",
-      "channel": "LinkedIn",
-      "dateApplied": "2026-09-21",
-      "type": "Full-time",
-      "salary": "",
-      "appliedThrough": "LinkedIn",
-      "contact": "",
-      "url": "",
-      "notes": "Company and role details were not recorded at the time of applying. Applied date approximate; rejection date not recorded.",
-      "nextAction": "",
-      "status": "Rejected",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-21"
-        },
-        {
-          "status": "Rejected",
-          "date": "2026-10-16"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-10-16"
-    },
-    {
-      "id": "ad0d1574065",
-      "company": "LinkedIn application – details not recorded #13",
-      "title": "Not recorded",
-      "location": "",
-      "channel": "LinkedIn",
-      "dateApplied": "2026-09-22",
-      "type": "Full-time",
-      "salary": "",
-      "appliedThrough": "LinkedIn",
-      "contact": "",
-      "url": "",
-      "notes": "Company and role details were not recorded at the time of applying. Applied date approximate; rejection date not recorded.",
-      "nextAction": "",
-      "status": "Rejected",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-22"
-        },
-        {
-          "status": "Rejected",
-          "date": "2026-10-16"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-10-16"
-    },
-    {
-      "id": "a6158406aec",
-      "company": "LinkedIn application – details not recorded #14",
-      "title": "Not recorded",
-      "location": "",
-      "channel": "LinkedIn",
-      "dateApplied": "2026-09-23",
-      "type": "Full-time",
-      "salary": "",
-      "appliedThrough": "LinkedIn",
-      "contact": "",
-      "url": "",
-      "notes": "Company and role details were not recorded at the time of applying. Applied date approximate; rejection date not recorded.",
-      "nextAction": "",
-      "status": "Rejected",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-23"
-        },
-        {
-          "status": "Rejected",
-          "date": "2026-10-16"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-10-16"
-    },
-    {
-      "id": "aed0bf9c1a8",
-      "company": "LinkedIn application – details not recorded #15",
-      "title": "Not recorded",
-      "location": "",
-      "channel": "LinkedIn",
-      "dateApplied": "2026-09-24",
-      "type": "Full-time",
-      "salary": "",
-      "appliedThrough": "LinkedIn",
-      "contact": "",
-      "url": "",
-      "notes": "Company and role details were not recorded at the time of applying. Applied date approximate; rejection date not recorded.",
-      "nextAction": "",
-      "status": "Rejected",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-24"
-        },
-        {
-          "status": "Rejected",
-          "date": "2026-10-16"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-10-16"
-    },
-    {
-      "id": "a4b290baa4c",
-      "company": "LinkedIn application – details not recorded #16",
-      "title": "Not recorded",
-      "location": "",
-      "channel": "LinkedIn",
-      "dateApplied": "2026-09-25",
-      "type": "Full-time",
-      "salary": "",
-      "appliedThrough": "LinkedIn",
-      "contact": "",
-      "url": "",
-      "notes": "Company and role details were not recorded at the time of applying. Applied date approximate; rejection date not recorded.",
-      "nextAction": "",
-      "status": "Rejected",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-25"
-        },
-        {
-          "status": "Rejected",
-          "date": "2026-10-16"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-10-16"
-    },
-    {
-      "id": "a62a261d74c",
-      "company": "LinkedIn application – details not recorded #17",
-      "title": "Not recorded",
-      "location": "",
-      "channel": "LinkedIn",
-      "dateApplied": "2026-09-26",
-      "type": "Full-time",
-      "salary": "",
-      "appliedThrough": "LinkedIn",
-      "contact": "",
-      "url": "",
-      "notes": "Company and role details were not recorded at the time of applying. Applied date approximate; rejection date not recorded.",
-      "nextAction": "",
-      "status": "Rejected",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-26"
-        },
-        {
-          "status": "Rejected",
-          "date": "2026-10-16"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-10-16"
-    },
-    {
-      "id": "a3327838fff",
-      "company": "LinkedIn application – details not recorded #18",
-      "title": "Not recorded",
-      "location": "",
-      "channel": "LinkedIn",
-      "dateApplied": "2026-09-27",
-      "type": "Full-time",
-      "salary": "",
-      "appliedThrough": "LinkedIn",
-      "contact": "",
-      "url": "",
-      "notes": "Company and role details were not recorded at the time of applying. Applied date approximate; rejection date not recorded.",
-      "nextAction": "",
-      "status": "Rejected",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-27"
-        },
-        {
-          "status": "Rejected",
-          "date": "2026-10-16"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-10-16"
-    },
-    {
-      "id": "aa48ed88912",
-      "company": "LinkedIn application – details not recorded #19",
-      "title": "Not recorded",
-      "location": "",
-      "channel": "LinkedIn",
-      "dateApplied": "2026-09-28",
-      "type": "Full-time",
-      "salary": "",
-      "appliedThrough": "LinkedIn",
-      "contact": "",
-      "url": "",
-      "notes": "Company and role details were not recorded at the time of applying. Applied date approximate; rejection date not recorded.",
-      "nextAction": "",
-      "status": "Rejected",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-28"
-        },
-        {
-          "status": "Rejected",
-          "date": "2026-10-16"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-10-16"
-    },
-    {
-      "id": "a0d1e5434fe",
-      "company": "LinkedIn application – details not recorded #20",
-      "title": "Not recorded",
-      "location": "",
-      "channel": "LinkedIn",
-      "dateApplied": "2026-09-29",
-      "type": "Full-time",
-      "salary": "",
-      "appliedThrough": "LinkedIn",
-      "contact": "",
-      "url": "",
-      "notes": "Company and role details were not recorded at the time of applying. Applied date approximate; rejection date not recorded.",
-      "nextAction": "",
-      "status": "Rejected",
-      "interviewDate": "",
-      "history": [
-        {
-          "status": "Applied",
-          "date": "2026-09-29"
-        },
-        {
-          "status": "Rejected",
-          "date": "2026-10-16"
-        }
-      ],
-      "followUps": [],
-      "updatedAt": "2026-10-16"
+ "updatedAt": "2026-10-26T17:27:01.279Z",
+ "settings": {
+  "ownerName": "Fahreen",
+  "monthlyTarget": 100,
+  "followUpAfterDays": 15,
+  "staleAfterDays": 30
+ },
+ "applications": [
+  {
+   "id": "a5cf6df9797",
+   "company": "Xspec Hospitech",
+   "title": "Business Development Manager",
+   "location": "Subang Jaya, Selangor, Malaysia",
+   "channel": "LinkedIn",
+   "dateApplied": "2026-09-10",
+   "type": "Full-time",
+   "salary": "8000",
+   "appliedThrough": "LinkedIn",
+   "contact": "",
+   "url": "https://www.linkedin.com/jobs/view/4463802737/",
+   "notes": "",
+   "nextAction": "",
+   "status": "Applied",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-09-10"
+    },
+    {
+     "status": "Application Pending",
+     "date": "2026-10-08"
+    },
+    {
+     "status": "Applied",
+     "date": "2026-10-08"
     }
-  ]
+   ],
+   "followUps": [],
+   "updatedAt": "2026-10-08"
+  },
+  {
+   "id": "a42a2972c64",
+   "company": "Michael Page",
+   "title": "Own strategic partnerships",
+   "location": "Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+   "channel": "LinkedIn",
+   "dateApplied": "2026-09-10",
+   "type": "Full-time",
+   "salary": "8000",
+   "appliedThrough": "Michael Page",
+   "contact": "Contact: Jasmine Wong\nJob ref: JN-092026-7099708\nPhone: +603 2302 4081",
+   "url": "https://www.michaelpage.com.my/job-detail/strategic-partnerships-manager/ref/jn-092026-7099708?utm_source=linkedin&utm_medium=job_wrapping&utm_campaign=jobposting",
+   "notes": "",
+   "nextAction": "",
+   "status": "Applied",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-09-10"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-09-10"
+  },
+  {
+   "id": "a0f987e1ff1",
+   "company": "Michael Page",
+   "title": "Business Development Manager(Healthcare)",
+   "location": "Petaling Jaya",
+   "channel": "LinkedIn",
+   "dateApplied": "2026-09-10",
+   "type": "Full-time",
+   "salary": "10000",
+   "appliedThrough": "Michael Page",
+   "contact": "Contact: Michelle Lim\nJob ref: JN-082026-7086894\nPhone: +603 2302 4057",
+   "url": "https://www.michaelpage.com.my/job-detail/business-development-managerhealthcare/ref/jn-082026-7086894?utm_source=linkedin&utm_medium=job_wrapping&utm_campaign=jobposting&ng-src=other-users-applied&ng-jn=job-detail",
+   "notes": "",
+   "nextAction": "",
+   "status": "Applied",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-09-10"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-09-10"
+  },
+  {
+   "id": "a6f77b4bbe8",
+   "company": "MedTech Sales",
+   "title": "Business Manager, Trauma (Malaysia and Brunei)",
+   "location": "Petaling Jaya / Malaysia",
+   "channel": "LinkedIn",
+   "dateApplied": "2026-09-11",
+   "type": "Full-time",
+   "salary": "10000",
+   "appliedThrough": "Website",
+   "contact": "",
+   "url": "https://www.careers.jnj.com/en/jobs/r-098488/business-manager-trauma-malaysia-and-brunei/?source=LinkedIn",
+   "notes": "",
+   "nextAction": "",
+   "status": "Applied",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-09-11"
+    },
+    {
+     "status": "Screening",
+     "date": "2026-09-30"
+    },
+    {
+     "status": "Applied",
+     "date": "2026-09-30"
+    },
+    {
+     "status": "Application Pending",
+     "date": "2026-09-30"
+    },
+    {
+     "status": "Applied",
+     "date": "2026-09-30"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-09-30"
+  },
+  {
+   "id": "a6a3adcf525",
+   "company": "Sunway Healthcare Group",
+   "title": "Assistant Manager, Corporate Partnerships & Business Development",
+   "location": "Subang Jaya, Selangor, Malaysia",
+   "channel": "LinkedIn",
+   "dateApplied": "2026-09-11",
+   "type": "Full-time",
+   "salary": "10000",
+   "appliedThrough": "LinkedIn",
+   "contact": "",
+   "url": "https://www.linkedin.com/jobs/view/4456260454/",
+   "notes": "",
+   "nextAction": "",
+   "status": "Applied",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-09-11"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-09-11"
+  },
+  {
+   "id": "aff7e9002c9",
+   "company": "Healthcon Sdn Bhd",
+   "title": "Business Development Manager (East Malaysia and Johor)",
+   "location": "Petaling Jaya, Selangor, Malaysia",
+   "channel": "LinkedIn",
+   "dateApplied": "2026-09-12",
+   "type": "Full-time",
+   "salary": "",
+   "appliedThrough": "LinkedIn",
+   "contact": "",
+   "url": "https://www.linkedin.com/jobs/view/4456229016/",
+   "notes": "",
+   "nextAction": "",
+   "status": "Applied",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-09-12"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-09-12"
+  },
+  {
+   "id": "a6da3bbc7f9",
+   "company": "Zuellig Pharma",
+   "title": "Business Development Manager (E-Commerce / Digital Healthcare)",
+   "location": "Shah Alam, Selangor, Malaysia",
+   "channel": "LinkedIn",
+   "dateApplied": "2026-09-12",
+   "type": "Full-time",
+   "salary": "",
+   "appliedThrough": "Website",
+   "contact": "",
+   "url": "https://careers.zuelligpharma.com/?locale=en_GB",
+   "notes": "Portal account created (login details removed from public data - keep them in a password manager).\nJob post: https://www.linkedin.com/jobs/view/4463192225/",
+   "nextAction": "",
+   "status": "Applied",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-09-12"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-09-12"
+  },
+  {
+   "id": "aee5e94754a",
+   "company": "DKSH",
+   "title": "Client Partnership Lead, Patient Solutions",
+   "location": "WP. Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+   "channel": "LinkedIn",
+   "dateApplied": "2026-09-12",
+   "type": "Full-time",
+   "salary": "",
+   "appliedThrough": "",
+   "contact": "",
+   "url": "https://www.linkedin.com/jobs/view/4430228280/",
+   "notes": "Portal account created (login details removed from public data - keep them in a password manager).",
+   "nextAction": "",
+   "status": "Applied",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-09-12"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-09-12"
+  },
+  {
+   "id": "ab0022e3a28",
+   "company": "Vanity Cosmeceutical Sdn Bhd",
+   "title": "Business Development Manager",
+   "location": "Petaling Jaya, Selangor, Malaysia",
+   "channel": "LinkedIn",
+   "dateApplied": "2026-09-12",
+   "type": "Full-time",
+   "salary": "",
+   "appliedThrough": "LinkedIn",
+   "contact": "",
+   "url": "https://www.linkedin.com/jobs/view/4462949306/",
+   "notes": "",
+   "nextAction": "",
+   "status": "Applied",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-09-12"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-09-12"
+  },
+  {
+   "id": "a81465b0749",
+   "company": "GrandTech Cloud Services Inc.",
+   "title": "Business Development Manager – Startup Ecosystem & Partnerships | Malaysia",
+   "location": "Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+   "channel": "LinkedIn",
+   "dateApplied": "2026-09-12",
+   "type": "Full-time",
+   "salary": "",
+   "appliedThrough": "LinkedIn",
+   "contact": "",
+   "url": "https://www.linkedin.com/jobs/view/4439487756/",
+   "notes": "",
+   "nextAction": "",
+   "status": "Applied",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-09-12"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-09-12"
+  },
+  {
+   "id": "afac85f0edb",
+   "company": "Cyberjaya College Kota Kinabalu",
+   "title": "Lecturer, Medical and Health Science",
+   "location": "Kota Kinabalu, Sabah",
+   "channel": "JobStreet",
+   "dateApplied": "2026-09-14",
+   "type": "Full-time",
+   "salary": "10000",
+   "appliedThrough": "Jobstreet",
+   "contact": "",
+   "url": "https://my.jobstreet.com/my-activity/applied-jobs/94327126",
+   "notes": "",
+   "nextAction": "",
+   "status": "Applied",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-09-14"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-09-14"
+  },
+  {
+   "id": "ad814ade361",
+   "company": "MAHSA University",
+   "title": "Lecturer of Environmental Health / Medical Imaging",
+   "location": "Kota Kinabalu, Sabah",
+   "channel": "JobStreet",
+   "dateApplied": "2026-09-14",
+   "type": "Full-time",
+   "salary": "10000",
+   "appliedThrough": "Jobstreet",
+   "contact": "",
+   "url": "https://my.jobstreet.com/my-activity/applied-jobs/94329751",
+   "notes": "",
+   "nextAction": "",
+   "status": "Applied",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-09-14"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-09-14"
+  },
+  {
+   "id": "a71afeb7317",
+   "company": "Soya Pach Aray Lean",
+   "title": "Lecturer - Occupational Safety and Health (OSH)",
+   "location": "Cyberjaya, Selangor",
+   "channel": "JobStreet",
+   "dateApplied": "2026-09-14",
+   "type": "Full-time",
+   "salary": "10000",
+   "appliedThrough": "Jobstreet",
+   "contact": "",
+   "url": "https://my.jobstreet.com/my-activity/applied-jobs/94344657",
+   "notes": "",
+   "nextAction": "",
+   "status": "Applied",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-09-14"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-09-14"
+  },
+  {
+   "id": "ae9508f7c2c",
+   "company": "Sunway Medical Centre Penang",
+   "title": "Executive, Business Development",
+   "location": "Seberang Perai, Penang",
+   "channel": "JobStreet",
+   "dateApplied": "2026-09-15",
+   "type": "Full-time",
+   "salary": "10000",
+   "appliedThrough": "Jobstreet",
+   "contact": "",
+   "url": "https://my.jobstreet.com/my-activity/applied-jobs/94601996",
+   "notes": "",
+   "nextAction": "",
+   "status": "Applied",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-09-15"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-09-15"
+  },
+  {
+   "id": "a8427b768b1",
+   "company": "University of Reading Malaysia (JB)",
+   "title": "Senior Executive, Special Projects & Business Development",
+   "location": "Iskandar Puteri, Johor",
+   "channel": "JobStreet",
+   "dateApplied": "2026-09-15",
+   "type": "Full-time",
+   "salary": "10000",
+   "appliedThrough": "Jobstreet",
+   "contact": "",
+   "url": "https://my.jobstreet.com/my-activity/applied-jobs/94616419",
+   "notes": "",
+   "nextAction": "",
+   "status": "Applied",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-09-15"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-09-15"
+  },
+  {
+   "id": "af3697a83e2",
+   "company": "TITAN DENTAL SOLUTIONS SDN BHD",
+   "title": "Angel Aligner Relationship Manager",
+   "location": "Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+   "channel": "LinkedIn",
+   "dateApplied": "2026-09-15",
+   "type": "Full-time",
+   "salary": "",
+   "appliedThrough": "LinkedIn",
+   "contact": "",
+   "url": "https://www.linkedin.com/jobs/view/4460245404/",
+   "notes": "",
+   "nextAction": "",
+   "status": "Applied",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-09-15"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-09-15"
+  },
+  {
+   "id": "a6d67ed6eba",
+   "company": "UE Global sdn bhd",
+   "title": "Business Development Assistant Manager",
+   "location": "",
+   "channel": "HIREDLY",
+   "dateApplied": "2026-09-16",
+   "type": "Full-time",
+   "salary": "RM 5K - RM 13K",
+   "appliedThrough": "HIREDLY",
+   "contact": "",
+   "url": "https://my.hiredly.com/jobs/jobs-malaysia-ue-global-sdn-bhd-job-business-development-assistant-manager",
+   "notes": "",
+   "nextAction": "",
+   "status": "Rejected",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-09-16"
+    },
+    {
+     "status": "Rejected",
+     "date": "2026-10-24"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-10-24"
+  },
+  {
+   "id": "a5555b6df82",
+   "company": "Trinitium",
+   "title": "Sales Account Manager",
+   "location": "Subang Jaya",
+   "channel": "HIREDLY",
+   "dateApplied": "2026-09-16",
+   "type": "Full-time",
+   "salary": "RM 6000 - RM 7000",
+   "appliedThrough": "HIREDLY",
+   "contact": "",
+   "url": "https://my.hiredly.com/jobs/jobs-malaysia-trinitium-job-sales-account-manager",
+   "notes": "",
+   "nextAction": "",
+   "status": "Applied",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-09-16"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-09-16"
+  },
+  {
+   "id": "aef7ab5f9af",
+   "company": "FOREFRONT International",
+   "title": "Aesthetic Medical Doctor",
+   "location": "Ara Damansara, Petaling Jaya",
+   "channel": "HIREDLY",
+   "dateApplied": "2026-09-16",
+   "type": "Full-time",
+   "salary": "Undisclosed",
+   "appliedThrough": "HIREDLY",
+   "contact": "",
+   "url": "https://my.hiredly.com/jobs/jobs-malaysia-forefront-international-job-aesthetic-medical-doctor",
+   "notes": "",
+   "nextAction": "",
+   "status": "Rejected",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-09-16"
+    },
+    {
+     "status": "Rejected",
+     "date": "2026-10-10"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-10-10"
+  },
+  {
+   "id": "abd2890e5a7",
+   "company": "Hiredly X",
+   "title": "Business Development Executive (Wellness)",
+   "location": "Petaling Jaya, Selangor",
+   "channel": "HIREDLY",
+   "dateApplied": "2026-09-16",
+   "type": "Full-time",
+   "salary": "RM 4000 - RM 6000",
+   "appliedThrough": "HIREDLY",
+   "contact": "",
+   "url": "https://my.hiredly.com/jobs/jobs-malaysia-hiredly-x-job-business-development-executive-wellness",
+   "notes": "",
+   "nextAction": "",
+   "status": "Applied",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-09-16"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-09-16"
+  },
+  {
+   "id": "a8dd0f5810f",
+   "company": "Instamedia Premium Solution Sdn Bhd",
+   "title": "Growth & Business Development Executive",
+   "location": "89, jalan hujan emas 8 ,OUG, Kuala Lumpur",
+   "channel": "HIREDLY",
+   "dateApplied": "2026-09-16",
+   "type": "Full-time",
+   "salary": "RM 4000 - RM 6000",
+   "appliedThrough": "HIREDLY",
+   "contact": "",
+   "url": "https://my.hiredly.com/jobs/jobs-malaysia-instamedia-premium-solution-sdn-bhd-job-growth-business-development-executive",
+   "notes": "",
+   "nextAction": "",
+   "status": "Rejected",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-09-16"
+    },
+    {
+     "status": "Rejected",
+     "date": "2026-10-24"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-10-24"
+  },
+  {
+   "id": "ac45ed98ee0",
+   "company": "COOKISS MOBILE SDN BHD",
+   "title": "Sales & Business Development Manager",
+   "location": "Petaling Jaya, Selangor",
+   "channel": "HIREDLY",
+   "dateApplied": "2026-09-16",
+   "type": "Full-time",
+   "salary": "RM 3500 - RM 7000",
+   "appliedThrough": "HIREDLY",
+   "contact": "",
+   "url": "https://my.hiredly.com/jobs/jobs-malaysia-cookiss-mobile-sdn-bhd-job-sales-business-development-manager-2",
+   "notes": "",
+   "nextAction": "",
+   "status": "Applied",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-09-16"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-09-16"
+  },
+  {
+   "id": "a1c43524536",
+   "company": "Biometrixs Meditronixs Global",
+   "title": "MEDICAL SALES REPRESENTATIVE",
+   "location": "SHAH ALAM, SELANGOR",
+   "channel": "HIREDLY",
+   "dateApplied": "2026-09-16",
+   "type": "Full-time",
+   "salary": "RM 2000 - RM 3500",
+   "appliedThrough": "HIREDLY",
+   "contact": "",
+   "url": "https://my.hiredly.com/jobs/jobs-malaysia-biometrixs-meditronixs-global-m-sdn-bhd-job-medical-sales-representative",
+   "notes": "",
+   "nextAction": "",
+   "status": "Applied",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-09-16"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-09-16"
+  },
+  {
+   "id": "aad00ce7c41",
+   "company": "Hiredly X",
+   "title": "Sales Account Manager",
+   "location": "Bukit Ceylon, Kuala Lumpur",
+   "channel": "HIREDLY",
+   "dateApplied": "2026-09-16",
+   "type": "Full-time",
+   "salary": "RM 6000 - RM 8000",
+   "appliedThrough": "HIREDLY",
+   "contact": "",
+   "url": "https://my.hiredly.com/jobs/jobs-malaysia-hiredly-x-job-sales-account-manager",
+   "notes": "",
+   "nextAction": "",
+   "status": "Applied",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-09-16"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-09-16"
+  },
+  {
+   "id": "a05627358fc",
+   "company": "Hiredly X",
+   "title": "Assistant Sales Manager",
+   "location": "Klang, Selangor, Selangor",
+   "channel": "HIREDLY",
+   "dateApplied": "2026-09-16",
+   "type": "Full-time",
+   "salary": "RM 5000 - RM 6500",
+   "appliedThrough": "HIREDLY",
+   "contact": "",
+   "url": "https://my.hiredly.com/jobs/jobs-malaysia-hiredly-x-job-assistant-sales-manager-1",
+   "notes": "",
+   "nextAction": "",
+   "status": "Applied",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-09-16"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-09-16"
+  },
+  {
+   "id": "ac069310b11",
+   "company": "Malaysian Diagnostics Corporation Sdn Bhd",
+   "title": "Product Specialist",
+   "location": "NO 1, JALAN SERINDIT 2, BANDAR PUCHONG JAYA, PUCHONG, Selangor",
+   "channel": "HIREDLY",
+   "dateApplied": "2026-09-16",
+   "type": "Full-time",
+   "salary": "RM 3500 - RM 4500",
+   "appliedThrough": "HIREDLY",
+   "contact": "",
+   "url": "https://my.hiredly.com/jobs/jobs-malaysia-malaysian-diagnostics-corporation-sdn-bhd-job-product-specialist",
+   "notes": "",
+   "nextAction": "",
+   "status": "Rejected",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-09-16"
+    },
+    {
+     "status": "Rejected",
+     "date": "2026-10-10"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-10-10"
+  },
+  {
+   "id": "a1ccceb262b",
+   "company": "KOLHUB",
+   "title": "Business Development Manager",
+   "location": "D-22-07, Menara Suezcap 1, KL Gateway, 2 Jalan Kerinchi, Kuala Lumpur, Kuala Lumpur",
+   "channel": "HIREDLY",
+   "dateApplied": "2026-09-16",
+   "type": "Full-time",
+   "salary": "RM 6K - RM 20K",
+   "appliedThrough": "HIREDLY",
+   "contact": "",
+   "url": "https://my.hiredly.com/jobs/jobs-malaysia-kolhub-job-business-development-manager",
+   "notes": "",
+   "nextAction": "",
+   "status": "Rejected",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-09-16"
+    },
+    {
+     "status": "Screening",
+     "date": "2026-10-10"
+    },
+    {
+     "status": "Interview Scheduled",
+     "date": "2026-10-10"
+    },
+    {
+     "status": "Rejected",
+     "date": "2026-10-10"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-10-10"
+  },
+  {
+   "id": "a31e0f33353",
+   "company": "Medicas Sdn Bhd",
+   "title": "Product Specialist (Business Development)-Johor based",
+   "location": "Mont Kiara, Kuala Lumpur",
+   "channel": "HIREDLY",
+   "dateApplied": "2026-09-16",
+   "type": "Full-time",
+   "salary": "RM 3K - RM 40K",
+   "appliedThrough": "HIREDLY",
+   "contact": "",
+   "url": "https://my.hiredly.com/jobs/jobs-malaysia-medicas-sdn-bhd-job-product-specialist-business-development-johor-based",
+   "notes": "",
+   "nextAction": "",
+   "status": "Applied",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-09-16"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-09-16"
+  },
+  {
+   "id": "a138e80820d",
+   "company": "Sailfish Swim Academy",
+   "title": "Manager/ Assistant Manager - Sales and Marketing",
+   "location": "Bandar Tropicana Aman, Selangor",
+   "channel": "HIREDLY",
+   "dateApplied": "2026-09-16",
+   "type": "Full-time",
+   "salary": "RM 3500 - RM 4000",
+   "appliedThrough": "HIREDLY",
+   "contact": "",
+   "url": "https://my.hiredly.com/jobs/jobs-malaysia-sailfish-swim-academy-job-manager-assistant-manager-sales-and-marketing",
+   "notes": "",
+   "nextAction": "",
+   "status": "Rejected",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-09-16"
+    },
+    {
+     "status": "Rejected",
+     "date": "2026-09-30"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-09-30"
+  },
+  {
+   "id": "ad675dd37c1",
+   "company": "GIDEONS (MALAYSIA) SDN BHD",
+   "title": "Sales & Marketing (Medical Device)",
+   "location": "KELANA JAYA, Selangor",
+   "channel": "HIREDLY",
+   "dateApplied": "2026-09-16",
+   "type": "Full-time",
+   "salary": "RM 3000 - RM 3600",
+   "appliedThrough": "HIREDLY",
+   "contact": "",
+   "url": "https://my.hiredly.com/jobs/jobs-malaysia-gideons-malaysia-sdn-bhd-job-sales-marketing-medical-device",
+   "notes": "",
+   "nextAction": "",
+   "status": "Applied",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-09-16"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-09-16"
+  },
+  {
+   "id": "a63e0a4268b",
+   "company": "Unseen Matters",
+   "title": "Sales & Business Development Manager",
+   "location": "Kuchai Lama, Kuala Lumpur",
+   "channel": "HIREDLY",
+   "dateApplied": "2026-09-16",
+   "type": "Full-time",
+   "salary": "RM 5000 - RM 8000",
+   "appliedThrough": "HIREDLY",
+   "contact": "",
+   "url": "Sales & Business Development Manager at Unseen Matters | Hiredly Malaysia",
+   "notes": "",
+   "nextAction": "",
+   "status": "Rejected",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-09-16"
+    },
+    {
+     "status": "Rejected",
+     "date": "2026-09-30"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-09-30"
+  },
+  {
+   "id": "a627f79b8ee",
+   "company": "AIM MEDTEC SDN BHD",
+   "title": "Sales Representative (Aesthetic Medical Devices) - Klang Valley",
+   "location": "Block 6-5-1C, Jln Jalil Perkasa 14, Arked Esplanade Bukit Jalil, Kuala Lumpur, Kuala Lumpur",
+   "channel": "HIREDLY",
+   "dateApplied": "2026-09-16",
+   "type": "Full-time",
+   "salary": "RM 4000 - RM 6000",
+   "appliedThrough": "HIREDLY",
+   "contact": "",
+   "url": "https://my.hiredly.com/jobs/jobs-malaysia-aim-medtec-sdn-bhd-job-sales-representative-aesthetic-medical-devices-klang-valley",
+   "notes": "",
+   "nextAction": "",
+   "status": "Applied",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-09-16"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-09-16"
+  },
+  {
+   "id": "a0c8156a568",
+   "company": "Rigel Technology (Malaysia) Sdn Bhd",
+   "title": "Project Sales Executive",
+   "location": "No. 18, Jalan 51A/225A, Zon Perindustrian PJCT, Seksyen 51A, Petaling Jaya, Selangor",
+   "channel": "HIREDLY",
+   "dateApplied": "2026-09-16",
+   "type": "Full-time",
+   "salary": "Undisclosed",
+   "appliedThrough": "HIREDLY",
+   "contact": "",
+   "url": "https://my.hiredly.com/jobs/jobs-malaysia-rigel-technology-malaysia-sdn-bhd-job-project-sales-executive",
+   "notes": "",
+   "nextAction": "",
+   "status": "Applied",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-09-16"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-09-16"
+  },
+  {
+   "id": "a1ea89de9f1",
+   "company": "Hiredly X",
+   "title": "Medical Sales Manager",
+   "location": "Shah Alam, Selangor, Selangor",
+   "channel": "HIREDLY",
+   "dateApplied": "2026-09-16",
+   "type": "Full-time",
+   "salary": "RM 9K - RM 12K",
+   "appliedThrough": "HIREDLY",
+   "contact": "",
+   "url": "https://my.hiredly.com/jobs/jobs-malaysia-hiredly-x-job-medical-sales-manager",
+   "notes": "",
+   "nextAction": "",
+   "status": "Applied",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-09-16"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-09-16"
+  },
+  {
+   "id": "ae0a4911543",
+   "company": "Asia OneHealthcare",
+   "title": "Group Head, Strategic Partnerships, Growth Markets & International Marketing",
+   "location": "Ara Damansara Medical Centre (ADMC)",
+   "channel": "Find Compnay Website",
+   "dateApplied": "2026-09-24",
+   "type": "Full-time",
+   "salary": "",
+   "appliedThrough": "Email",
+   "contact": "",
+   "url": "https://asiaonehealth.com/careers/",
+   "notes": "",
+   "nextAction": "",
+   "status": "Applied",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-09-24"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-09-24"
+  },
+  {
+   "id": "afbba770c5c",
+   "company": "Avisena Healthcare",
+   "title": "Healthcare Business Development",
+   "location": "Shah Alam, Selangor.",
+   "channel": "Find Compnay Website",
+   "dateApplied": "2026-09-24",
+   "type": "Full-time",
+   "salary": "",
+   "appliedThrough": "Email",
+   "contact": "",
+   "url": "https://avisena.com.my/careers/",
+   "notes": "",
+   "nextAction": "",
+   "status": "Applied",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-09-24"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-09-24"
+  },
+  {
+   "id": "afe102d085a",
+   "company": "Adventist Hospital",
+   "title": "Healthcare Business Development & Strategic Partnerships",
+   "location": "Penang",
+   "channel": "Find Compnay Website",
+   "dateApplied": "2026-09-24",
+   "type": "Full-time",
+   "salary": "",
+   "appliedThrough": "Email",
+   "contact": "",
+   "url": "https://pah.com.my/jobs/",
+   "notes": "",
+   "nextAction": "",
+   "status": "Applied",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-09-24"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-09-24"
+  },
+  {
+   "id": "ae13c98ffff",
+   "company": "Beacon Hospital",
+   "title": "Business Office Assistant",
+   "location": "Petaling Jaya, Selangor.",
+   "channel": "Find Compnay Website",
+   "dateApplied": "2026-09-24",
+   "type": "Full-time",
+   "salary": "",
+   "appliedThrough": "Website",
+   "contact": "",
+   "url": "https://www.beaconhospital.com.my/careers/?job=Business+Office+Assistant#career-application",
+   "notes": "",
+   "nextAction": "",
+   "status": "Applied",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-09-24"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-09-24"
+  },
+  {
+   "id": "a8373e3c12a",
+   "company": "International Federation of Red Cross and Red Crescent Societies - IFRC",
+   "title": "Malaysia Country Coordinator",
+   "location": "Kuala Lumpur, Malaysia",
+   "channel": "LinkedIn",
+   "dateApplied": "2026-09-26",
+   "type": "Full-time",
+   "salary": "",
+   "appliedThrough": "Website",
+   "contact": "",
+   "url": "https://www.linkedin.com/jobs/view/4469102719/",
+   "notes": "",
+   "nextAction": "",
+   "status": "Applied",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-09-26"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-09-26"
+  },
+  {
+   "id": "aff8dc46078",
+   "company": "VDart Malaysia",
+   "title": "Partnerships Specialist",
+   "location": "Petaling Jaya, Selangor, Malaysia",
+   "channel": "LinkedIn",
+   "dateApplied": "2026-09-26",
+   "type": "Full-time",
+   "salary": "",
+   "appliedThrough": "LinkedIn",
+   "contact": "",
+   "url": "https://www.linkedin.com/jobs/view/4470069773/",
+   "notes": "",
+   "nextAction": "",
+   "status": "Applied",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-09-26"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-09-26"
+  },
+  {
+   "id": "a548a1dfbe0",
+   "company": "Innity",
+   "title": "Senior Strategic Partnership Specialist (Influencer)",
+   "location": "Petaling Jaya, Selangor, Malaysia",
+   "channel": "LinkedIn",
+   "dateApplied": "2026-09-26",
+   "type": "Full-time",
+   "salary": "8000",
+   "appliedThrough": "LinkedIn",
+   "contact": "",
+   "url": "https://www.linkedin.com/jobs/view/4470096357/",
+   "notes": "",
+   "nextAction": "",
+   "status": "Applied",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-09-26"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-09-26"
+  },
+  {
+   "id": "a3287e0918e",
+   "company": "Zuellig Pharma",
+   "title": "Business Development Manager (E-Commerce / Digital Healthcare)",
+   "location": "Shah Alam, Selangor, Malaysia",
+   "channel": "LinkedIn",
+   "dateApplied": "2026-09-26",
+   "type": "Full-time",
+   "salary": "",
+   "appliedThrough": "Website",
+   "contact": "",
+   "url": "https://careers.zuelligpharma.com/?locale=en_GB",
+   "notes": "Portal account created (login details removed from public data - keep them in a password manager).",
+   "nextAction": "",
+   "status": "Applied",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-09-26"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-09-26"
+  },
+  {
+   "id": "a50ddbad56e",
+   "company": "Zoll Medical Corporation",
+   "title": "Business Development Manager, Gov/Military (APAC)",
+   "location": "Kuala Lumpur, Malaysia",
+   "channel": "LinkedIn",
+   "dateApplied": "2026-09-26",
+   "type": "Full-time",
+   "salary": "",
+   "appliedThrough": "Website",
+   "contact": "",
+   "url": "https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/Kuala-Lumpur-Malaysia/Business-Development-Manager--Gov-Military--APAC-_R18734",
+   "notes": "",
+   "nextAction": "",
+   "status": "Applied",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-09-26"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-09-26"
+  },
+  {
+   "id": "ad1f239d951",
+   "company": "WTW",
+   "title": "Associate Manager (Business Development), Health & Benefits, Malaysia",
+   "location": "Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+   "channel": "LinkedIn",
+   "dateApplied": "2026-09-27",
+   "type": "Full-time",
+   "salary": "",
+   "appliedThrough": "Website",
+   "contact": "",
+   "url": "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/my-profile/preview/202606089",
+   "notes": "Candidate portal: https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/my-profile",
+   "nextAction": "",
+   "status": "Applied",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-09-27"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-09-27"
+  },
+  {
+   "id": "a1c5391dfa5",
+   "company": "Align Technology - Home",
+   "title": "Clinical Education Manager APAC",
+   "location": "APAC-Malaysia",
+   "channel": "Find Compnay Website",
+   "dateApplied": "2026-09-28",
+   "type": "Full-time",
+   "salary": "",
+   "appliedThrough": "Website",
+   "contact": "",
+   "url": "https://jobs.aligntech.com/postings/5da2f8cd-0a94-46d8-becd-3230d236c282",
+   "notes": "",
+   "nextAction": "",
+   "status": "Applied",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-09-28"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-09-28"
+  },
+  {
+   "id": "a3be86b5e8c",
+   "company": "Philips",
+   "title": "Personal Health Business Zone Leader: JAPAC",
+   "location": "Kuala Lumpur – Co-labs",
+   "channel": "Find Compnay Website",
+   "dateApplied": "2026-09-28",
+   "type": "Full-time",
+   "salary": "",
+   "appliedThrough": "Website",
+   "contact": "",
+   "url": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Personal-Health-Business-Zone-Leader--JAPAC_590878-1",
+   "notes": "",
+   "nextAction": "",
+   "status": "Applied",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-09-28"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-09-28"
+  },
+  {
+   "id": "a65e93f4da6",
+   "company": "FosunHealth 复星健康",
+   "title": "International Insurance Direct Billing Partnership",
+   "location": "Federal Territory of Kuala Lumpur, Malaysia",
+   "channel": "LinkedIn",
+   "dateApplied": "2026-09-28",
+   "type": "Full-time",
+   "salary": "",
+   "appliedThrough": "LinkedIn",
+   "contact": "",
+   "url": "https://www.linkedin.com/jobs/view/4470678161/",
+   "notes": "",
+   "nextAction": "",
+   "status": "Applied",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-09-28"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-09-28"
+  },
+  {
+   "id": "amun688mk17ft8",
+   "company": "VHR Consultancy",
+   "title": "Senior Business Development Executive",
+   "location": "Kajang, Selangor, Malaysia",
+   "channel": "LinkedIn",
+   "dateApplied": "2026-09-30",
+   "type": "Full-time",
+   "salary": "",
+   "status": "Applied",
+   "appliedThrough": "LinkedIn",
+   "contact": "",
+   "url": "https://www.linkedin.com/jobs/view/4471266754/",
+   "notes": "",
+   "nextAction": "",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-09-30"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-09-30"
+  },
+  {
+   "id": "amuntnpruw4o57",
+   "company": "Enterprise Asia",
+   "title": "Partnership Manager (Business Development & Regional Sales)",
+   "location": "Petaling Jaya, Selangor, Malaysia",
+   "channel": "LinkedIn",
+   "dateApplied": "2026-09-30",
+   "type": "Full-time",
+   "salary": "8000",
+   "status": "Applied",
+   "appliedThrough": "LinkedIn",
+   "contact": "",
+   "url": "https://www.linkedin.com/jobs/view/4459502172/",
+   "notes": "",
+   "nextAction": "",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-09-30"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-09-30"
+  },
+  {
+   "id": "amunts2rml3x77",
+   "company": "NPAworldwide",
+   "title": "Business Development Lead- Malaysia",
+   "location": "Kuala Lumpur, Malaysia",
+   "channel": "Find Compnay Website",
+   "dateApplied": "2026-09-30",
+   "type": "Full-time",
+   "salary": "8000",
+   "status": "Applied",
+   "appliedThrough": "Website",
+   "contact": "",
+   "url": "https://jobs.npaworldwide.com/job-confirmation",
+   "notes": "",
+   "nextAction": "",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-09-30"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-09-30"
+  },
+  {
+   "id": "amunu4xduyqnvz",
+   "company": "Dream Ct Solution",
+   "title": "Health & Wellness Business Development Executive",
+   "location": "Bandar Puchong Jaya",
+   "channel": "HIREDLY",
+   "dateApplied": "2026-09-30",
+   "type": "Full-time",
+   "salary": "RM 3K - RM 15K",
+   "status": "Applied",
+   "appliedThrough": "HIREDLY",
+   "contact": "",
+   "url": "https://my.hiredly.com/jobs/jobs-malaysia-ue-global-sdn-bhd-job-business-development-assistant-manager",
+   "notes": "",
+   "nextAction": "",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-09-30"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-09-30"
+  },
+  {
+   "id": "amunx2f46qca0t",
+   "company": "Rigel Technology (Malaysia) Sdn Bhd",
+   "title": "BUSINESS DEVELOPMENT EXECUTIVE (WELLNESS)",
+   "location": "Petaling Jaya, Selangor",
+   "channel": "HIREDLY",
+   "dateApplied": "2026-09-30",
+   "type": "Full-time",
+   "salary": "Undisclosed",
+   "status": "Rejected",
+   "appliedThrough": "HIREDLY",
+   "contact": "",
+   "url": "https://my.hiredly.com/profile#job-application-history",
+   "notes": "",
+   "nextAction": "",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-09-30"
+    },
+    {
+     "status": "Rejected",
+     "date": "2026-10-10"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-10-10"
+  },
+  {
+   "id": "amunz6jmvzavpp",
+   "company": "Ambition",
+   "title": "Service Coordinator/Customer Service Coordinator",
+   "location": "Selangor, Malaysia",
+   "channel": "LinkedIn",
+   "dateApplied": "2026-09-30",
+   "type": "Full-time",
+   "salary": "",
+   "status": "Applied",
+   "appliedThrough": "LinkedIn",
+   "contact": "",
+   "url": "https://www.linkedin.com/jobs/view/4468527921/",
+   "notes": "",
+   "nextAction": "",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-09-30"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-09-30"
+  },
+  {
+   "id": "amunz80s7zq73u",
+   "company": "MSD",
+   "title": "Associate Director",
+   "location": "Petaling Jaya, Selangor, Malaysia",
+   "channel": "LinkedIn",
+   "dateApplied": "2026-09-30",
+   "type": "Full-time",
+   "salary": "",
+   "status": "Applied",
+   "appliedThrough": "LinkedIn",
+   "contact": "",
+   "url": "https://www.linkedin.com/jobs/view/4461129110/",
+   "notes": "",
+   "nextAction": "",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-09-30"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-09-30"
+  },
+  {
+   "id": "amunzawyst6im2",
+   "company": "Teladoc Health Asia",
+   "title": "Asia Care Coordinator",
+   "location": "Federal Territory of Kuala Lumpur, Malaysia",
+   "channel": "LinkedIn",
+   "dateApplied": "2026-09-30",
+   "type": "Full-time",
+   "salary": "",
+   "status": "Applied",
+   "appliedThrough": "LinkedIn",
+   "contact": "",
+   "url": "https://www.linkedin.com/jobs/view/4460923759/",
+   "notes": "",
+   "nextAction": "",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-09-30"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-09-30"
+  },
+  {
+   "id": "amunzd8cjs88mq",
+   "company": "HYRED",
+   "title": "Project Manager",
+   "location": "Federal Territory of Kuala Lumpur, Malaysia",
+   "channel": "LinkedIn",
+   "dateApplied": "2026-09-30",
+   "type": "Full-time",
+   "salary": "",
+   "status": "Applied",
+   "appliedThrough": "LinkedIn",
+   "contact": "",
+   "url": "https://www.linkedin.com/jobs/view/4465807575/",
+   "notes": "",
+   "nextAction": "",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-09-30"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-09-30"
+  },
+  {
+   "id": "amunze5exnlvj3",
+   "company": "ThoughtFull",
+   "title": "Clinical Quality and Provider Engagement Manager",
+   "location": "Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+   "channel": "LinkedIn",
+   "dateApplied": "2026-09-30",
+   "type": "Full-time",
+   "salary": "",
+   "status": "Applied",
+   "appliedThrough": "LinkedIn",
+   "contact": "",
+   "url": "https://www.linkedin.com/jobs/view/4462801099/",
+   "notes": "",
+   "nextAction": "",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-09-30"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-09-30"
+  },
+  {
+   "id": "amunzf5e0orpn4",
+   "company": "MIMS Medica (Malaysia) Sdn Bhd",
+   "title": "Regional Operations Manager",
+   "location": "Petaling Jaya, Selangor, Malaysia",
+   "channel": "LinkedIn",
+   "dateApplied": "2026-09-30",
+   "type": "Full-time",
+   "salary": "",
+   "status": "Applied",
+   "appliedThrough": "LinkedIn",
+   "contact": "",
+   "url": "https://www.linkedin.com/jobs/view/4468700636/",
+   "notes": "",
+   "nextAction": "",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-09-30"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-09-30"
+  },
+  {
+   "id": "amunzgey43i8sv",
+   "company": "Sunway Medical Centre Velocity",
+   "title": "Executive, Staff Health",
+   "location": "Kuala Lumpur, Malaysia",
+   "channel": "LinkedIn",
+   "dateApplied": "2026-09-30",
+   "type": "Full-time",
+   "salary": "",
+   "status": "Applied",
+   "appliedThrough": "LinkedIn",
+   "contact": "",
+   "url": "https://www.linkedin.com/jobs/view/4460991042/",
+   "notes": "",
+   "nextAction": "",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-09-30"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-09-30"
+  },
+  {
+   "id": "amunzil942nh51",
+   "company": "MAHSA Specialist Hospital",
+   "title": "Medical affair senior executive",
+   "location": "Jenjarom, Selangor, Malaysia",
+   "channel": "LinkedIn",
+   "dateApplied": "2026-09-30",
+   "type": "Full-time",
+   "salary": "",
+   "status": "Applied",
+   "appliedThrough": "LinkedIn",
+   "contact": "",
+   "url": "https://www.linkedin.com/jobs/view/4472130066/",
+   "notes": "",
+   "nextAction": "",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-09-30"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-09-30"
+  },
+  {
+   "id": "amunzk45qglm9n",
+   "company": "Santen",
+   "title": "Clinical Applications Manager",
+   "location": "Kuala Lumpur, Malaysia",
+   "channel": "LinkedIn",
+   "dateApplied": "2026-09-30",
+   "type": "Full-time",
+   "salary": "",
+   "status": "Applied",
+   "appliedThrough": "LinkedIn",
+   "contact": "",
+   "url": "https://www.linkedin.com/jobs/view/4458954212/",
+   "notes": "",
+   "nextAction": "",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-09-30"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-09-30"
+  },
+  {
+   "id": "amunzm1qjwnc2t",
+   "company": "Ipsos in Malaysia",
+   "title": "Senior Compliance Manager - Healthcare",
+   "location": "Kuala Lumpur, Malaysia",
+   "channel": "LinkedIn",
+   "dateApplied": "2026-09-30",
+   "type": "Full-time",
+   "salary": "8000",
+   "status": "Applied",
+   "appliedThrough": "LinkedIn",
+   "contact": "",
+   "url": "https://www.linkedin.com/jobs/view/4470293877/",
+   "notes": "",
+   "nextAction": "",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-09-30"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-09-30"
+  },
+  {
+   "id": "amurfj19jeomtt",
+   "company": "Save the Children",
+   "title": "Coordinator – Awards Management and Donor Compliance",
+   "location": "Dhaka, Bangladesh",
+   "channel": "Find Compnay Website",
+   "dateApplied": "2026-10-03",
+   "type": "Full-time",
+   "salary": "200000 BDT",
+   "status": "Applied",
+   "appliedThrough": "Website",
+   "contact": "",
+   "url": "https://hcri.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/my-profile",
+   "notes": "",
+   "nextAction": "",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-10-03"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-10-03"
+  },
+  {
+   "id": "amuv9pu54mkc9q",
+   "company": "Médecins Sans Frontières HK / Doctors Without Borders (MSF)",
+   "title": "Project Manager – Heat Stress Duty of Care (TIC Incubator Project)",
+   "location": "Kuala Lumpur, Malaysia",
+   "channel": "LinkedIn",
+   "dateApplied": "2026-10-05",
+   "type": "Full-time",
+   "salary": "",
+   "status": "Applied",
+   "appliedThrough": "LinkedIn",
+   "contact": "",
+   "url": "https://www.linkedin.com/jobs/view/4470062922/",
+   "notes": "",
+   "nextAction": "",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-10-05"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-10-05"
+  },
+  {
+   "id": "amuv9ry76fbzag",
+   "company": "Easmed",
+   "title": "Business Executive",
+   "location": "",
+   "channel": "LinkedIn",
+   "dateApplied": "2026-10-05",
+   "type": "Full-time",
+   "salary": "10000",
+   "status": "Applied",
+   "appliedThrough": "LinkedIn",
+   "contact": "",
+   "url": "https://www.linkedin.com/jobs/view/4467828818/",
+   "notes": "",
+   "nextAction": "",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-10-05"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-10-05"
+  },
+  {
+   "id": "amuyjerq9rfwll",
+   "company": "Clinigen",
+   "title": "Regional Senior Business Development Manager",
+   "location": "Shah Alam, Selangor, Malaysia",
+   "channel": "LinkedIn",
+   "dateApplied": "2026-10-08",
+   "type": "Full-time",
+   "salary": "MYR 15,000 – 18,000",
+   "status": "Applied",
+   "appliedThrough": "LinkedIn",
+   "contact": "",
+   "url": "https://www.linkedin.com/jobs/view/4426588311/",
+   "notes": "",
+   "nextAction": "",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-10-08"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-10-08"
+  },
+  {
+   "id": "amuyjs0eeyhp4d",
+   "company": "Intellect",
+   "title": "Manager / Senior Manager, Strategy & Operations (Multiple Roles)",
+   "location": "Malaysia",
+   "channel": "LinkedIn",
+   "dateApplied": "2026-10-08",
+   "type": "Full-time",
+   "salary": "MYR 12,000–15,000",
+   "status": "Applied",
+   "appliedThrough": "LinkedIn",
+   "contact": "",
+   "url": "https://www.linkedin.com/jobs/view/4460179526/",
+   "notes": "",
+   "nextAction": "",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-10-08"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-10-08"
+  },
+  {
+   "id": "amuzrmo550h3gk",
+   "company": "SHINING 3D",
+   "title": "Account Manager - Dental - Malaysia",
+   "location": "Greater Kuala Lumpur",
+   "channel": "LinkedIn",
+   "dateApplied": "2026-10-08",
+   "type": "Full-time",
+   "salary": "",
+   "status": "Applied",
+   "appliedThrough": "LinkedIn",
+   "contact": "",
+   "url": "https://www.linkedin.com/jobs/view/4419035113/",
+   "notes": "",
+   "nextAction": "",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-10-08"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-10-08"
+  },
+  {
+   "id": "amuzrpa1vw7yjs",
+   "company": "AIA Malaysia",
+   "title": "Intermediary Relationship Management, Consultant",
+   "location": "Kuala Lumpur, Malaysia",
+   "channel": "LinkedIn",
+   "dateApplied": "2026-10-08",
+   "type": "Full-time",
+   "salary": "",
+   "status": "Applied",
+   "appliedThrough": "LinkedIn",
+   "contact": "",
+   "url": "https://www.linkedin.com/jobs/view/4469427377/",
+   "notes": "",
+   "nextAction": "",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-10-08"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-10-08"
+  },
+  {
+   "id": "amuzx8r9a5ccuw",
+   "company": "Plan International",
+   "title": "Monitoring, Evaluation, Research and Learning (MERL) Coordinator",
+   "location": "Nepal",
+   "channel": "LinkedIn",
+   "dateApplied": "2026-10-09",
+   "type": "Full-time",
+   "salary": "",
+   "status": "Applied",
+   "appliedThrough": "Website",
+   "contact": "",
+   "url": "https://career5.successfactors.eu/portalcareer?_s.crb=q5FSt5HzXZHaFp3zQSatDoa6USo41DIYLBgTZj91RB4%253d",
+   "notes": "",
+   "nextAction": "",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-10-09"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-10-09"
+  },
+  {
+   "id": "amv1f93x2fnpqq",
+   "company": "Philips",
+   "title": "Sales Specialist Acute Care Informatics",
+   "location": "Malaysia",
+   "channel": "LinkedIn",
+   "dateApplied": "2026-10-10",
+   "type": "Full-time",
+   "salary": "",
+   "status": "Rejected",
+   "appliedThrough": "Website",
+   "contact": "",
+   "url": "",
+   "notes": "",
+   "nextAction": "",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-10-10"
+    },
+    {
+     "status": "Rejected",
+     "date": "2026-10-12"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-10-12"
+  },
+  {
+   "id": "amv1fbnxgmzioj",
+   "company": "先路咨询XianluConsulting",
+   "title": "Regional Client Partner – Medical Disposables",
+   "location": "Kuala Lumpur, Malaysia",
+   "channel": "LinkedIn",
+   "dateApplied": "2026-10-10",
+   "type": "Full-time",
+   "salary": "",
+   "status": "Applied",
+   "appliedThrough": "LinkedIn",
+   "contact": "",
+   "url": "",
+   "notes": "",
+   "nextAction": "",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-10-10"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-10-10"
+  },
+  {
+   "id": "amv1fclwlz4mn1",
+   "company": "Digmarit Ltd",
+   "title": "Business Development Manager",
+   "location": "Malaysia",
+   "channel": "LinkedIn",
+   "dateApplied": "2026-10-10",
+   "type": "Full-time",
+   "salary": "",
+   "status": "Applied",
+   "appliedThrough": "LinkedIn",
+   "contact": "",
+   "url": "https://www.linkedin.com/jobs/view/4477815919/",
+   "notes": "",
+   "nextAction": "",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-10-10"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-10-10"
+  },
+  {
+   "id": "amv1fdpdkod9l6",
+   "company": "Gate",
+   "title": "Global Partnerships Manager",
+   "location": "Malaysia",
+   "channel": "LinkedIn",
+   "dateApplied": "2026-10-10",
+   "type": "Full-time",
+   "salary": "",
+   "status": "Applied",
+   "appliedThrough": "LinkedIn",
+   "contact": "",
+   "url": "https://www.linkedin.com/jobs/view/4461059421/",
+   "notes": "",
+   "nextAction": "",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-10-10"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-10-10"
+  },
+  {
+   "id": "amv1ffki7rmt42",
+   "company": "Confidential",
+   "title": "Global Partnerships Manager",
+   "location": "Kuala Lumpur, Malaysia",
+   "channel": "LinkedIn",
+   "dateApplied": "2026-10-10",
+   "type": "Full-time",
+   "salary": "",
+   "status": "Applied",
+   "appliedThrough": "LinkedIn",
+   "contact": "",
+   "url": "https://www.linkedin.com/jobs/view/4461058446/",
+   "notes": "",
+   "nextAction": "",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-10-10"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-10-10"
+  },
+  {
+   "id": "amv1fhqb1bbrf4",
+   "company": "ACTalent Fresh Career",
+   "title": "Business Development",
+   "location": "Greater Kuala Lumpur",
+   "channel": "LinkedIn",
+   "dateApplied": "2026-10-10",
+   "type": "Full-time",
+   "salary": "",
+   "status": "Applied",
+   "appliedThrough": "LinkedIn",
+   "contact": "",
+   "url": "https://www.linkedin.com/jobs/view/4476299437/",
+   "notes": "",
+   "nextAction": "",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-10-10"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-10-10"
+  },
+  {
+   "id": "amv1fisjk8825f",
+   "company": "Hartalega",
+   "title": "International Sales Executive",
+   "location": "Kuala Lumpur, Malaysia",
+   "channel": "LinkedIn",
+   "dateApplied": "2026-10-10",
+   "type": "Full-time",
+   "salary": "10000",
+   "status": "Applied",
+   "appliedThrough": "LinkedIn",
+   "contact": "",
+   "url": "https://www.linkedin.com/jobs/view/4476244401/",
+   "notes": "",
+   "nextAction": "",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-10-10"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-10-10"
+  },
+  {
+   "id": "amv2lkkygmsuxk",
+   "company": "Hiredly X",
+   "title": "Medical Sales Manager (Aesthetic)",
+   "location": "Shah Alam, Selangor",
+   "channel": "HIREDLY",
+   "dateApplied": "2026-10-10",
+   "type": "Full-time",
+   "salary": "RM 8K - RM 12K",
+   "status": "Applied",
+   "appliedThrough": "HIREDLY",
+   "contact": "",
+   "url": "https://my.hiredly.com/jobs/jobs-malaysia-hiredly-x-job-medical-sales-manager-aesthetic?utm_source=mandrill&utm_medium=email&utm_content=job&utm_campaign=job_alert",
+   "notes": "",
+   "nextAction": "",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-10-10"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-10-10"
+  },
+  {
+   "id": "amv2m1nemasfgn",
+   "company": "Skribble Me Malaysia Sdn Bhd",
+   "title": "Senior Business Development",
+   "location": "Damansara Perdana, Selangor",
+   "channel": "HIREDLY",
+   "dateApplied": "2026-10-10",
+   "type": "Full-time",
+   "salary": "RM 3K - RM 15K",
+   "status": "Applied",
+   "appliedThrough": "HIREDLY",
+   "contact": "",
+   "url": "https://my.hiredly.com/jobs/jobs-malaysia-skribble-me-malaysia-sdn-bhd-job-senior-business-development?origin=job_list",
+   "notes": "",
+   "nextAction": "",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-10-10"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-10-10"
+  },
+  {
+   "id": "amv2m40uf60iyq",
+   "company": "GBCI",
+   "title": "Senior Business Development Executive",
+   "location": "Kuala Lumpur",
+   "channel": "HIREDLY",
+   "dateApplied": "2026-10-10",
+   "type": "Full-time",
+   "salary": "RM 8K - RM 10K",
+   "status": "Rejected",
+   "appliedThrough": "HIREDLY",
+   "contact": "",
+   "url": "https://my.hiredly.com/jobs/jobs-malaysia-gbci-job-senior-business-development-executive-0?origin=similar_jobs",
+   "notes": "",
+   "nextAction": "",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-10-10"
+    },
+    {
+     "status": "Rejected",
+     "date": "2026-10-24"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-10-24"
+  },
+  {
+   "id": "amv2m58k28oamv",
+   "company": "MM Century",
+   "title": "Senior Enterprise Business Development Executive",
+   "location": "Selangor",
+   "channel": "HIREDLY",
+   "dateApplied": "2026-10-10",
+   "type": "Full-time",
+   "salary": "RM 6000 - RM 8000",
+   "status": "Rejected",
+   "appliedThrough": "HIREDLY",
+   "contact": "",
+   "url": "https://my.hiredly.com/jobs/jobs-malaysia-mm-century-job-senior-enterprise-business-development-executive?origin=similar_jobs",
+   "notes": "",
+   "nextAction": "",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-10-10"
+    },
+    {
+     "status": "Rejected",
+     "date": "2026-10-24"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-10-24"
+  },
+  {
+   "id": "amv2m8v4tfz259",
+   "company": "Hiredly X",
+   "title": "Aesthetic Clinic Sales Manager",
+   "location": "Puchong, Selangor",
+   "channel": "LinkedIn",
+   "dateApplied": "2026-10-10",
+   "type": "Full-time",
+   "salary": "",
+   "status": "Applied",
+   "appliedThrough": "LinkedIn",
+   "contact": "",
+   "url": "",
+   "notes": "",
+   "nextAction": "",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-10-10"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-10-10"
+  },
+  {
+   "id": "amv9psukrkzjmp",
+   "company": "PeopleLAKE Group",
+   "title": "Business Development Manager",
+   "location": "Kuala Lumpur, Malaysia",
+   "channel": "LinkedIn",
+   "dateApplied": "2026-10-12",
+   "type": "Full-time",
+   "salary": "",
+   "status": "Applied",
+   "appliedThrough": "LinkedIn",
+   "contact": "",
+   "url": "https://www.linkedin.com/jobs/view/4478872242/",
+   "notes": "",
+   "nextAction": "",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-10-12"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-10-15"
+  },
+  {
+   "id": "amv9pu8gbh0hb8",
+   "company": "Robert Walters",
+   "title": "Regional Channel Partnerships Manager (Southeast Asia)",
+   "location": "Kuala Lumpur, Malaysia",
+   "channel": "LinkedIn",
+   "dateApplied": "2026-10-12",
+   "type": "Full-time",
+   "salary": "",
+   "status": "Rejected",
+   "appliedThrough": "LinkedIn",
+   "contact": "",
+   "url": "https://www.linkedin.com/jobs/view/4479239862/",
+   "notes": "",
+   "nextAction": "",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-10-12"
+    },
+    {
+     "status": "Rejected",
+     "date": "2026-10-16"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-10-16"
+  },
+  {
+   "id": "amv9q09fschnv6",
+   "company": "PopoMama",
+   "title": "Sales & Business Development Executive",
+   "location": "Selangor, Malaysia",
+   "channel": "LinkedIn",
+   "dateApplied": "2026-10-13",
+   "type": "Full-time",
+   "salary": "",
+   "status": "Applied",
+   "appliedThrough": "LinkedIn",
+   "contact": "",
+   "url": "https://www.linkedin.com/jobs/view/4475959056/",
+   "notes": "",
+   "nextAction": "",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-10-13"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-10-15"
+  },
+  {
+   "id": "amv9q2f4vqhyqt",
+   "company": "People Systems Consultancy",
+   "title": "Sales Business Development Manager",
+   "location": "Selangor, Malaysia",
+   "channel": "LinkedIn",
+   "dateApplied": "2026-10-13",
+   "type": "Full-time",
+   "salary": "",
+   "status": "Applied",
+   "appliedThrough": "LinkedIn",
+   "contact": "",
+   "url": "https://www.linkedin.com/jobs/view/4460458466/",
+   "notes": "",
+   "nextAction": "",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-10-13"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-10-15"
+  },
+  {
+   "id": "amvly75kkk7omp",
+   "company": "MIMS Medica (Malaysia) Sdn Bhd",
+   "title": "Business Manager",
+   "location": "Selangor, Malaysia",
+   "channel": "LinkedIn",
+   "dateApplied": "2026-10-24",
+   "type": "Full-time",
+   "salary": "",
+   "status": "Applied",
+   "appliedThrough": "LinkedIn",
+   "contact": "",
+   "url": "https://www.linkedin.com/jobs/view/4479952535/",
+   "notes": "",
+   "nextAction": "",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-10-24"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-10-24"
+  },
+  {
+   "id": "amvlyci0gzgd2b",
+   "company": "Sunway Healthcare Group",
+   "title": "Assistant Manager, Corporate Partnerships & Business Development",
+   "location": "Selangor, Malaysia",
+   "channel": "LinkedIn",
+   "dateApplied": "2026-10-24",
+   "type": "Full-time",
+   "salary": "",
+   "status": "Applied",
+   "appliedThrough": "LinkedIn",
+   "contact": "",
+   "url": "https://www.linkedin.com/jobs/view/4480779423/",
+   "notes": "",
+   "nextAction": "",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-10-24"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-10-24"
+  },
+  {
+   "id": "amvlyfcjytcgnu",
+   "company": "Principle Partners MY",
+   "title": "Business Development Manager",
+   "location": "Kuala Lumpur, Malaysia",
+   "channel": "LinkedIn",
+   "dateApplied": "2026-10-24",
+   "type": "Full-time",
+   "salary": "",
+   "status": "Applied",
+   "appliedThrough": "LinkedIn",
+   "contact": "",
+   "url": "https://www.linkedin.com/jobs/view/4476096022/",
+   "notes": "",
+   "nextAction": "",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-10-24"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-10-24"
+  },
+  {
+   "id": "amvlygr2yzdxha",
+   "company": "Sunway Multicare Pharmacy",
+   "title": "Assistant Manager/Manager - Business Development",
+   "location": "Selangor, Malaysia",
+   "channel": "LinkedIn",
+   "dateApplied": "2026-10-24",
+   "type": "Full-time",
+   "salary": "",
+   "status": "Applied",
+   "appliedThrough": "LinkedIn",
+   "contact": "",
+   "url": "https://www.linkedin.com/jobs/view/4475536495/",
+   "notes": "",
+   "nextAction": "",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-10-24"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-10-24"
+  },
+  {
+   "id": "amvm174im7ppd2",
+   "company": "Assistant Operations Manager",
+   "title": "Assistant Operations Manager",
+   "location": "",
+   "channel": "LinkedIn",
+   "dateApplied": "2026-10-24",
+   "type": "Full-time",
+   "salary": "",
+   "status": "Applied",
+   "appliedThrough": "Website",
+   "contact": "",
+   "url": "https://www.linkedin.com/jobs/view/4482840654/",
+   "notes": "",
+   "nextAction": "",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-10-24"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-10-24"
+  },
+  {
+   "id": "amvm19qcszkc6b",
+   "company": "Sainhall Nutrihealth Sdn Bhd",
+   "title": "International B2B Sales Manager - Health & Wellness",
+   "location": "Penang, Malaysia",
+   "channel": "LinkedIn",
+   "dateApplied": "2026-10-24",
+   "type": "Full-time",
+   "salary": "10000",
+   "status": "Applied",
+   "appliedThrough": "LinkedIn",
+   "contact": "",
+   "url": "https://www.linkedin.com/jobs/view/4472254796/",
+   "notes": "",
+   "nextAction": "",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-10-24"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-10-24"
+  },
+  {
+   "id": "amvm1fraa1otc5",
+   "company": "Pluto Communications",
+   "title": "Business Development Manager",
+   "location": "",
+   "channel": "LinkedIn",
+   "dateApplied": "2026-10-24",
+   "type": "Full-time",
+   "salary": "",
+   "status": "Applied",
+   "appliedThrough": "Email",
+   "contact": "",
+   "url": "https://www.linkedin.com/jobs/view/4443946386/",
+   "notes": "",
+   "nextAction": "",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-10-24"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-10-24"
+  },
+  {
+   "id": "amvm1t7us52jjy",
+   "company": "B. Braun Group",
+   "title": "Strategic Partnership Lead",
+   "location": "Selangor, Malaysia",
+   "channel": "LinkedIn",
+   "dateApplied": "2026-10-24",
+   "type": "Full-time",
+   "salary": "10000",
+   "status": "Applied",
+   "appliedThrough": "Website",
+   "contact": "",
+   "url": "https://www.linkedin.com/jobs/view/4468566590/",
+   "notes": "",
+   "nextAction": "",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-10-24"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-10-24"
+  },
+  {
+   "id": "amvm2ori0f0m82",
+   "company": "TR Malaysia Sdn Bhd",
+   "title": "Business Development Manager",
+   "location": "Selangor, Malaysia",
+   "channel": "LinkedIn",
+   "dateApplied": "2026-10-24",
+   "type": "Full-time",
+   "salary": "",
+   "status": "Applied",
+   "appliedThrough": "LinkedIn",
+   "contact": "",
+   "url": "https://www.linkedin.com/jobs/view/4478660201/",
+   "notes": "",
+   "nextAction": "",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-10-24"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-10-24"
+  },
+  {
+   "id": "amvm2tl2fjiboa",
+   "company": "ORIUS",
+   "title": "Business Development Manager",
+   "location": "Klang Valley, Malaysia",
+   "channel": "Find Compnay Website",
+   "dateApplied": "2026-10-24",
+   "type": "Full-time",
+   "salary": "",
+   "status": "Applied",
+   "appliedThrough": "Website",
+   "contact": "",
+   "url": "https://oriusdigital.com/careers/business-development-manager/",
+   "notes": "",
+   "nextAction": "",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-10-24"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-10-24"
+  },
+  {
+   "id": "amvm2xvi6zyaox",
+   "company": "SuamiSihat Clinic",
+   "title": "Sales Manager",
+   "location": "Selangor, Malaysia",
+   "channel": "LinkedIn",
+   "dateApplied": "2026-10-24",
+   "type": "Full-time",
+   "salary": "",
+   "status": "Applied",
+   "appliedThrough": "LinkedIn",
+   "contact": "",
+   "url": "https://www.linkedin.com/jobs/view/4480792435/",
+   "notes": "",
+   "nextAction": "",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-10-24"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-10-24"
+  },
+  {
+   "id": "amvm3sb0j1q5ts",
+   "company": "Lean Giap Enterprise Sdn. Bhd",
+   "title": "Partnerships & Ecosystem Development Manager",
+   "location": "",
+   "channel": "JobStreet",
+   "dateApplied": "2026-10-24",
+   "type": "Full-time",
+   "salary": "RM 8,000 – RM 12,000",
+   "status": "Applied",
+   "appliedThrough": "Jobstreet",
+   "contact": "",
+   "url": "https://my.jobstreet.com/job/95146052?ref=search-standalone&type=standard&origin=jobTitle#sol=99c70b3fd3bdc04ca205e52680bf1836a88d0585",
+   "notes": "",
+   "nextAction": "",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-10-24"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-10-24"
+  },
+  {
+   "id": "amvm4c4km57iwa",
+   "company": "DECATHLON",
+   "title": "Events & Partnership Manager",
+   "location": "",
+   "channel": "Find Compnay Website",
+   "dateApplied": "2026-10-24",
+   "type": "Full-time",
+   "salary": "",
+   "status": "Applied",
+   "appliedThrough": "Website",
+   "contact": "",
+   "url": "https://careers.decathlon.my/en/annonce/4378259-events-partnership-manager-kuala-lumpur",
+   "notes": "",
+   "nextAction": "",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-10-24"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-10-24"
+  },
+  {
+   "id": "amvm4idsthfozz",
+   "company": "BoardPAC Pvt Ltd",
+   "title": "Business Development Manager",
+   "location": "Kuala Lumpur",
+   "channel": "JobStreet",
+   "dateApplied": "2026-10-24",
+   "type": "Full-time",
+   "salary": "",
+   "status": "Applied",
+   "appliedThrough": "Jobstreet",
+   "contact": "",
+   "url": "https://my.jobstreet.com/job/95057977?token=1~6374cce5-792a-4c76-beb0-91922349215c&ref=post-apply-recs",
+   "notes": "",
+   "nextAction": "",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-10-24"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-10-24"
+  },
+  {
+   "id": "amvm4j36iptq3e",
+   "company": "AsiaPay (M) Sdn Bhd",
+   "title": "Senior Sales Manager (Hunter Role)",
+   "location": "Kuala Lumpur",
+   "channel": "JobStreet",
+   "dateApplied": "2026-10-24",
+   "type": "Full-time",
+   "salary": "10K",
+   "status": "Applied",
+   "appliedThrough": "Jobstreet",
+   "contact": "",
+   "url": "https://my.jobstreet.com/job/95202277?token=1~6374cce5-792a-4c76-beb0-91922349215c&ref=post-apply-recs",
+   "notes": "",
+   "nextAction": "",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-10-24"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-10-24"
+  },
+  {
+   "id": "amvm4kxddd4ids",
+   "company": "True North Furniture Sdn Bhd",
+   "title": "Commercial Business Development Manager",
+   "location": "Kuala Lumpur",
+   "channel": "JobStreet",
+   "dateApplied": "2026-10-24",
+   "type": "Full-time",
+   "salary": "RM 8,000 – RM 12,000",
+   "status": "Applied",
+   "appliedThrough": "Jobstreet",
+   "contact": "",
+   "url": "https://my.jobstreet.com/job/94980646?token=1~6374cce5-792a-4c76-beb0-91922349215c&ref=post-apply-recs",
+   "notes": "",
+   "nextAction": "",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-10-24"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-10-24"
+  },
+  {
+   "id": "amvm4muvgpp1dh",
+   "company": "Life Care Alliance Sdn Bhd",
+   "title": "Business Development Manager - Agency",
+   "location": "Bangsar South, Kuala Lumpur",
+   "channel": "JobStreet",
+   "dateApplied": "2026-10-24",
+   "type": "Full-time",
+   "salary": "RM 8,000 – RM 10,000",
+   "status": "Applied",
+   "appliedThrough": "Jobstreet",
+   "contact": "",
+   "url": "https://my.jobstreet.com/job/94978843?token=1~e9fb884a-abc2-431d-acf1-6bab69fa94d4&ref=post-apply-recs",
+   "notes": "",
+   "nextAction": "",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-10-24"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-10-24"
+  },
+  {
+   "id": "amvm4uhrewpwe0",
+   "company": "AVANTA TECHNOLOGIES SDN. BHD",
+   "title": "Operation Manager",
+   "location": "Kuala Lumpur",
+   "channel": "JobStreet",
+   "dateApplied": "2026-10-24",
+   "type": "Full-time",
+   "salary": "RM 8,000 – RM 12,000",
+   "status": "Applied",
+   "appliedThrough": "Jobstreet",
+   "contact": "",
+   "url": "https://my.jobstreet.com/job/95260876?token=1~6374cce5-792a-4c76-beb0-91922349215c&ref=post-apply-recs",
+   "notes": "",
+   "nextAction": "",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-10-24"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-10-24"
+  },
+  {
+   "id": "amvm4wssjc0qjg",
+   "company": "Sun Life Malaysia Assurance Berhad",
+   "title": "Manager, Portfolio Optimization",
+   "location": "Kuala Lumpur",
+   "channel": "JobStreet",
+   "dateApplied": "2026-10-24",
+   "type": "Full-time",
+   "salary": "RM 12,000 – RM 13,000",
+   "status": "Applied",
+   "appliedThrough": "Jobstreet",
+   "contact": "",
+   "url": "https://my.jobstreet.com/job/95022568?token=1~6374cce5-792a-4c76-beb0-91922349215c&ref=post-apply-recs",
+   "notes": "",
+   "nextAction": "",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-10-24"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-10-24"
+  },
+  {
+   "id": "amvm4zxkn7f89v",
+   "company": "Triumph International Services (APAC) Limited",
+   "title": "National Sales Manager Malaysia",
+   "location": "Petaling Jaya, Selangor",
+   "channel": "JobStreet",
+   "dateApplied": "2026-10-24",
+   "type": "Full-time",
+   "salary": "RM 16,000 – RM 20,000",
+   "status": "Applied",
+   "appliedThrough": "Jobstreet",
+   "contact": "",
+   "url": "https://my.jobstreet.com/job/95051954?token=1~6374cce5-792a-4c76-beb0-91922349215c&ref=post-apply-recs",
+   "notes": "",
+   "nextAction": "",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-10-24"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-10-24"
+  },
+  {
+   "id": "amvmdxkvhb4wpk",
+   "company": "World Education Placement Services Sdn Bhd",
+   "title": "Senior Manager - Business Development & Operations",
+   "location": "Subang Jaya, Selangor",
+   "channel": "JobStreet",
+   "dateApplied": "2026-10-24",
+   "type": "Full-time",
+   "salary": "RM 7,000 – RM 10,000",
+   "status": "Applied",
+   "appliedThrough": "Jobstreet",
+   "contact": "",
+   "url": "https://my.jobstreet.com/job/95374424?type=standard&ref=search-standalone&origin=cardTitle#sol=b304dabbdaaa9d990f96850a0823191ae89b4695",
+   "notes": "",
+   "nextAction": "",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-10-24"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-10-24"
+  },
+  {
+   "id": "amvme1ww4ypf3s",
+   "company": "Manchester Worldwide Institute of Higher Education, SE Asia",
+   "title": "Senior Manager Executive Education (Malaysia)",
+   "location": "Kuala Lumpur City Centre, Kuala Lumpur",
+   "channel": "JobStreet",
+   "dateApplied": "2026-10-24",
+   "type": "Full-time",
+   "salary": "RM 17,000 – RM 25,000",
+   "status": "Applied",
+   "appliedThrough": "Jobstreet",
+   "contact": "",
+   "url": "https://my.jobstreet.com/job/95196068?type=standard&ref=search-standalone&origin=cardTitle#sol=b48d1be29331f98624c671cac7d3fcc174f30cd3",
+   "notes": "",
+   "nextAction": "",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-10-24"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-10-24"
+  },
+  {
+   "id": "amvme3uxswz2yq",
+   "company": "Kelana Jaya Medical Centre Sdn Bhd",
+   "title": "Sales & Marketing Manager",
+   "location": "Kelana Jaya, Selangor",
+   "channel": "JobStreet",
+   "dateApplied": "2026-10-24",
+   "type": "Full-time",
+   "salary": "",
+   "status": "Applied",
+   "appliedThrough": "Jobstreet",
+   "contact": "",
+   "url": "https://my.jobstreet.com/job/95374461?type=standard&ref=search-standalone&origin=cardTitle#sol=06bca1a63d34e1579ae3dd8c96170d4114c13ef9",
+   "notes": "",
+   "nextAction": "",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-10-24"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-10-24"
+  },
+  {
+   "id": "amvme5231t4yzu",
+   "company": "Zoll Medical",
+   "title": "Business Development Manager, APAC",
+   "location": "Selangor",
+   "channel": "JobStreet",
+   "dateApplied": "2026-10-24",
+   "type": "Full-time",
+   "salary": "",
+   "status": "Applied",
+   "appliedThrough": "Website",
+   "contact": "",
+   "url": "https://my.jobstreet.com/job/92237020?type=standard&ref=search-standalone&origin=cardTitle#sol=0079d5ceb7858c27d300a016055a1264ebdf41cc",
+   "notes": "",
+   "nextAction": "",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-10-24"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-10-24"
+  },
+  {
+   "id": "amvmei19ooo8o2",
+   "company": "Green Titan Biomed Manufacturing Sdn Bhd",
+   "title": "Business Development Executive (Nutraceutical)",
+   "location": "Cheras, Kuala Lumpur",
+   "channel": "JobStreet",
+   "dateApplied": "2026-10-24",
+   "type": "Full-time",
+   "salary": "RM 3,500 – RM 4,500",
+   "status": "Applied",
+   "appliedThrough": "Jobstreet",
+   "contact": "",
+   "url": "https://my.jobstreet.com/job/95387280?type=standard&ref=search-standalone&origin=cardTitle#sol=27ded7f44e5e1aefc12c0961f97bf2586783380b",
+   "notes": "",
+   "nextAction": "",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-10-24"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-10-24"
+  },
+  {
+   "id": "amvmejq492nt7i",
+   "company": "Tongee Medical Tech Indonesia",
+   "title": "Medical Sales Manager (MY)",
+   "location": "Kuala Lumpur",
+   "channel": "JobStreet",
+   "dateApplied": "2026-10-24",
+   "type": "Full-time",
+   "salary": "RM 12.000 – RM 17.000",
+   "status": "Applied",
+   "appliedThrough": "Jobstreet",
+   "contact": "",
+   "url": "https://my.jobstreet.com/job/95462181?type=standard&ref=search-standalone&origin=cardTitle#sol=ef2acdba6d6923cb268b629bfe3e3c6ad92fd183",
+   "notes": "",
+   "nextAction": "",
+   "interviewDate": "",
+   "history": [
+    {
+     "status": "Applied",
+     "date": "2026-10-24"
+    }
+   ],
+   "followUps": [],
+   "updatedAt": "2026-10-24"
+  }
+ ]
 }
